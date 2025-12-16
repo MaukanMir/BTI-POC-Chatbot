@@ -7,14 +7,28 @@ import json
 import boto3
 
 from sentence_transformers import SentenceTransformer, CrossEncoder
-from typing import TypedDict, List, Optional
+from typing import TypedDict, List, Optional, Dict
+
+from enum import Enum
+
+class OrchestratorDecision(Enum):
+    ANSWER = "answer"
+    RETRIEVE = "retrieve"
+    CLARIFY = "clarify"
 
 class AgentState(TypedDict):
-    query: str
-    results: list
+    user_input: str
+    messages: List[Dict[str, str]]   # chat history
+    tool_result: str
     answer: str
-    conversation: List[str]   # prior user turns
-    last_context: Optional[str]
+
+def orchestrator_decide(
+    user_query: str,
+    last_context: str | None,
+    last_llm_response: str | None,
+) -> OrchestratorDecision:
+
+    q = user_query.lower()
     
     
 
