@@ -1,5 +1,5 @@
-document_id,page_number,text,text_length,num_tables,tables
-FEP_Blue_Focus_2026,1,"Blue Cross® and Blue Shield® Service Benefit Plan
+document_id,brochure,plan,page_number,text,text_length,num_tables,tables
+FEHB-Blue-Focus,FEHB,Blue-Focus,1,"Blue Cross® and Blue Shield® Service Benefit Plan
 FEP® Blue Focus
 www.fepblue.org
 2026
@@ -24,7 +24,7 @@ Enrollment codes for this Plan:
 133 FEP Blue Focus - Self Plus One
 132 FEP Blue Focus - Self and Family
 RI 71-017",1018,0,
-FEP_Blue_Focus_2026,2,"Important Notice from the Blue Cross and Blue Shield Service Benefit Plan About
+FEHB-Blue-Focus,FEHB,Blue-Focus,2,"Important Notice from the Blue Cross and Blue Shield Service Benefit Plan About
 Our Prescription Drug Coverage and Medicare
 The Office of Personnel Management (OPM) has determined that the Blue Cross and Blue Shield Service Benefit Plan’s prescription
 drug coverage is, on average, expected to pay out as much as the standard Medicare prescription drug coverage will pay for all plan
@@ -56,7 +56,7 @@ incomes and is adjusted based on the income reported on your IRS tax return. You
 FEHB plan. Refer to the Part D-IRMAA section of the Medicare website: https://www.medicare.gov/drug-coverage-part-d/costs-for-
 medicare-drug-coverage/monthly-premium-for-drug-plans to see if you would be subject to this additional premium.
 RI 71-017",2916,0,
-FEP_Blue_Focus_2026,3,"Table of Contents
+FEHB-Blue-Focus,FEHB,Blue-Focus,3,"Table of Contents
 Introduction ...................................................................................................................................................................................4
 Plain Language ..............................................................................................................................................................................4
 Stop Healthcare Fraud! .................................................................................................................................................................4
@@ -107,7 +107,7 @@ How to request precertification for an admission or get prior approval for Other
 • Emergency inpatient admission ....................................................................................................................................26
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 1 Table of Contents
 FEP® Blue Focus",8255,0,
-FEP_Blue_Focus_2026,4,"• Maternity care ...............................................................................................................................................................26
+FEHB-Blue-Focus,FEHB,Blue-Focus,4,"• Maternity care ...............................................................................................................................................................26
 • If your facility stay needs to be extended .....................................................................................................................27
 • If your treatment needs to be extended .........................................................................................................................27
 If you disagree with our pre-service claim decision .........................................................................................................27
@@ -159,10 +159,10 @@ Index ..........................................................................
 Summary of Benefits for the Blue Cross and Blue Shield Service Benefit Plan FEP Blue Focus – 2026 ...............................134
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 2 Table of Contents
 FEP® Blue Focus",8340,0,
-FEP_Blue_Focus_2026,5,"2026 Rate Information for the Blue Cross and Blue Shield Service Benefit Plan ....................................................................140
+FEHB-Blue-Focus,FEHB,Blue-Focus,5,"2026 Rate Information for the Blue Cross and Blue Shield Service Benefit Plan ....................................................................140
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 3 Table of Contents
 FEP® Blue Focus",240,0,
-FEP_Blue_Focus_2026,6,"Introduction
+FEHB-Blue-Focus,FEHB,Blue-Focus,6,"Introduction
 This brochure describes the benefits of the Blue Cross and Blue Shield Service Benefit Plan – FEP Blue Focus under contract (CS
 1039) between the Blue Cross and Blue Shield Association and the United States Office of Personnel Management, as authorized by
 the Federal Employees Health Benefits law. This Plan is underwritten by participating Blue Cross and Blue Shield Plans (Local Plans)
@@ -201,7 +201,7 @@ authorized health benefits plan, or OPM representative.
 • Do not ask your doctor to make false entries on certificates, bills, or records in order to get us to pay for an item or service.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 4 Introduction/Plain Language/Advisory
 FEP® Blue Focus",3671,0,
-FEP_Blue_Focus_2026,7,"• If you suspect that a provider has charged you for services you did not receive, billed you twice for the same service, or
+FEHB-Blue-Focus,FEHB,Blue-Focus,7,"• If you suspect that a provider has charged you for services you did not receive, billed you twice for the same service, or
 misrepresented any information, do the following:
 - Call the provider and ask for an explanation. There may be an error.
 - If the provider does not resolve the matter, call the FEP Fraud Hotline at 800-FEP-8440 (800-337-8440) and explain the
@@ -245,7 +245,7 @@ We:
 - Qualified sign language interpreters
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 5 Introduction/Plain Language/Advisory
 FEP® Blue Focus",3513,0,
-FEP_Blue_Focus_2026,8,"- Written information in other formats (large print, audio, accessible electronic formats, other formats)
+FEHB-Blue-Focus,FEHB,Blue-Focus,8,"- Written information in other formats (large print, audio, accessible electronic formats, other formats)
 • Provide free language services to people whose primary language is not English, such as:
 - Qualified interpreters
 - Information written in other languages
@@ -285,7 +285,7 @@ double dosing from taking both a generic and a brand of the same medication. It 
 you are allergic.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 6 Introduction/Plain Language/Advisory
 FEP® Blue Focus",3551,0,
-FEP_Blue_Focus_2026,9,"3. Get the results of any test or procedure.
+FEHB-Blue-Focus,FEHB,Blue-Focus,9,"3. Get the results of any test or procedure.
 • Ask when and how you will get the results of tests or procedures. Will it be in person, by phone, mail, through the Plan or
 Provider’s portal?
 • Do not assume the results are fine if you do not get them when expected. Contact your healthcare provider and ask for your results.
@@ -321,7 +321,7 @@ the safe, appropriate use of medications.
 patient safety.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 7 Introduction/Plain Language/Advisory
 FEP® Blue Focus",2642,0,
-FEP_Blue_Focus_2026,10,"Preventable Healthcare Acquired Conditions (“Never Events”)
+FEHB-Blue-Focus,FEHB,Blue-Focus,10,"Preventable Healthcare Acquired Conditions (“Never Events”)
 When you enter the hospital for treatment of one medical problem, you do not expect to leave with additional injuries, infections, or
 other serious conditions that occur during the course of your stay. Although some of these complications may not be avoidable,
 patients do suffer from injuries or illnesses that could have been prevented if doctors or the hospital had taken proper precautions.
@@ -336,7 +336,7 @@ Preferred hospitals. This policy helps to protect you from having to pay for the
 hospitals to improve the quality of care they provide.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 8 Introduction/Plain Language/Advisory
 FEP® Blue Focus",1521,0,
-FEP_Blue_Focus_2026,11,"FEHB Facts
+FEHB-Blue-Focus,FEHB,Blue-Focus,11,"FEHB Facts
 Coverage information
 • No pre-existing We will not refuse to cover the treatment of a condition you had before you enrolled in this Plan
 condition limitation solely because you had the condition before you enrolled.
@@ -382,7 +382,7 @@ enrollment if you marry, give birth, or add a child to your family. You may chan
 on the first day of the pay period in which the child is born or becomes an eligible family member.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 9 FEHB Facts
 FEP® Blue Focus",3225,0,
-FEP_Blue_Focus_2026,12,"When you change to Self Plus One or Self and Family because you marry, the change is effective on
+FEHB-Blue-Focus,FEHB,Blue-Focus,12,"When you change to Self Plus One or Self and Family because you marry, the change is effective on
 the first day of the pay period that begins after your employing office receives your enrollment form.
 Benefits will not be available until you are married. A carrier may request that an enrollee verify the
 eligibility of any or all family members listed as covered under the enrollee’s FEHB enrollment.
@@ -432,7 +432,7 @@ if you are an employee subject to a court or administrative order requiring you 
 benefits for your child or children.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 10 FEHB Facts
 FEP® Blue Focus",3970,0,
-FEP_Blue_Focus_2026,13,"If this law applies to you, you must enroll in Self Plus One or Self and Family coverage in a health
+FEHB-Blue-Focus,FEHB,Blue-Focus,13,"If this law applies to you, you must enroll in Self Plus One or Self and Family coverage in a health
 plan that provides full benefits in the area where your children live or provide documentation to your
 employing office that you have obtained other health benefits coverage for your children. If you do
 not do so, your employing office will enroll you involuntarily as follows:
@@ -478,7 +478,7 @@ requirement, you may be eligible for other forms of coverage, such as Temporary 
 Coverage (TCC).
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 11 FEHB Facts
 FEP® Blue Focus",4083,0,
-FEP_Blue_Focus_2026,14,"When you lose benefits
+FEHB-Blue-Focus,FEHB,Blue-Focus,14,"When you lose benefits
 • When FEHB You will receive an additional 31 days of coverage, for no additional premium, when:
 coverage ends
 • Your enrollment ends, unless you cancel your enrollment; or
@@ -526,7 +526,7 @@ phone number appearing on the back of your ID card, or visit www.bcbs.com to acc
 of your Local Plan.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 12 FEHB Facts
 FEP® Blue Focus",3969,0,
-FEP_Blue_Focus_2026,15,"Note: We do not determine who is eligible to purchase health benefits coverage inside the Affordable
+FEHB-Blue-Focus,FEHB,Blue-Focus,15,"Note: We do not determine who is eligible to purchase health benefits coverage inside the Affordable
 Care Act’s Health Insurance Marketplace. These rules are established by the Federal Government
 agencies that have responsibility for implementing the Affordable Care Act and by the Marketplace.
 • Health Insurance If you would like to purchase health insurance through the ACA’s Health Insurance Marketplace,
@@ -534,7 +534,7 @@ Marketplace please visit www.HealthCare.gov. This is a website provided by the U
 Human Services that provides up-to-date information on the Marketplace.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 13 FEHB Facts
 FEP® Blue Focus",674,0,
-FEP_Blue_Focus_2026,16,"Section 1. How This Plan Works
+FEHB-Blue-Focus,FEHB,Blue-Focus,16,"Section 1. How This Plan Works
 This Plan is a fee-for-service (FFS) plan that offers covered services through Preferred providers. You can choose your own
 physicians, hospitals, and other healthcare providers within our Preferred Provider Organization (PPO) network. We reimburse you or
 your provider for your covered services, usually based on a percentage of the amount we allow. The type and extent of covered
@@ -574,7 +574,7 @@ published in this brochure; it is communicated to members and network providers 
 Certain pilot programs may incorporate benefits that are different from those described in this brochure.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 14 Section 1
 FEP® Blue Focus",3906,0,
-FEP_Blue_Focus_2026,17,"Your rights and responsibilities
+FEHB-Blue-Focus,FEHB,Blue-Focus,17,"Your rights and responsibilities
 OPM requires that all FEHB plans provide certain information to their FEHB members. You may get information about us, our
 networks, and our providers. OPM’s FEHB website, www.opm.gov/insure, lists the specific types of information that we must make
 available to you. Some of the required information is listed below.
@@ -597,7 +597,7 @@ drug utilization) to any treating physicians or dispensing pharmacies. You may v
 information about how we may use and disclose member information by visiting our website at www.fepblue.org.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 15 Section 1
 FEP® Blue Focus",1988,0,
-FEP_Blue_Focus_2026,18,"Section 2. Changes for 2026
+FEHB-Blue-Focus,FEHB,Blue-Focus,18,"Section 2. Changes for 2026
 Do not rely only on these change descriptions; this Section is not an official statement of benefits. For that, go to Section 5 (Benefits).
 Also, we edited and clarified language throughout the brochure; any language change not shown here is a clarification that does not
 change benefits.
@@ -625,7 +625,7 @@ maximum of a $500 for a 30-day supply ($1,300 maximum for up to a 31 to 90-day s
 same drug benefits as those who are not enrolled in Medicare.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 16 Section 2
 FEP® Blue Focus",2749,0,
-FEP_Blue_Focus_2026,19,"Section 3. How You Get Care
+FEHB-Blue-Focus,FEHB,Blue-Focus,19,"Section 3. How You Get Care
 Identification cards We will send you an identification (ID) card when you enroll. You should carry your ID card with
 you at all times. You will need it whenever you receive services from a covered provider, or fill a
 prescription through a Preferred retail pharmacy. Until you receive your ID card, use your copy of
@@ -676,7 +676,7 @@ doctors of medicine (M.D.) or licensed doctors of osteopathy (D.O.), for compens
 patients, on an inpatient or outpatient basis;
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 17 Section 3
 FEP® Blue Focus",4353,0,
-FEP_Blue_Focus_2026,20,"2. Continuously provides 24-hour-a-day professional registered nursing (R.N.) services; and
+FEHB-Blue-Focus,FEHB,Blue-Focus,20,"2. Continuously provides 24-hour-a-day professional registered nursing (R.N.) services; and
 3. Is not, other than incidentally, an extended care facility; a nursing home; a place for rest; an
 institution for exceptional children, the aged, those who suffer from substance use disorders; or
 a custodial or domiciliary institution having as its primary purpose the furnishing of food,
@@ -726,7 +726,7 @@ Hospital Finder via www.fepblue.org/provider; or call us at the customer service
 listed on the back of your ID card.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 18 Section 3
 FEP® Blue Focus",3978,0,
-FEP_Blue_Focus_2026,21,"Other facilities specifically listed in the benefits descriptions in Section 5(c).
+FEHB-Blue-Focus,FEHB,Blue-Focus,21,"Other facilities specifically listed in the benefits descriptions in Section 5(c).
 What you must do to get You must use Preferred providers in order to receive benefits, except under the situations
 covered care listed below. In addition, we must approve certain types of care in advance. Please refer to Section
 4, Your Costs for Covered Services, for related benefits information.
@@ -775,7 +775,7 @@ card. If you are new to the FEHB Program, we will reimburse you for your covered
 you are in the hospital beginning on the effective date of your coverage.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 19 Section 3
 FEP® Blue Focus",3879,0,
-FEP_Blue_Focus_2026,22,"However, if you changed from another FEHB plan to us, your former plan will pay for the hospital
+FEHB-Blue-Focus,FEHB,Blue-Focus,22,"However, if you changed from another FEHB plan to us, your former plan will pay for the hospital
 stay until:
 • you are discharged, not merely moved to an alternative care center;
 • the day your benefits from your former plan run out; or
@@ -825,7 +825,7 @@ to make a coverage determination:
 • Gene Therapy and Cellular Immunotherapy, including Car-T and T-cell receptor therapy
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 20 Section 3
 FEP® Blue Focus",4176,0,
-FEP_Blue_Focus_2026,23,"• Medical benefit drugs – We require prior approval for certain drugs that will be submitted on a
+FEHB-Blue-Focus,FEHB,Blue-Focus,23,"• Medical benefit drugs – We require prior approval for certain drugs that will be submitted on a
 medical claim for reimbursement. Contact the customer service number on the back of your ID
 card or visit us at www.fepblue.org/medicalbenefitdrugs for a list of these drugs.
 • Air Ambulance Transport (non-emergent) – Air ambulance transport related to immediate
@@ -876,7 +876,7 @@ individuals facing iatrogenic infertility.
 • Cochlear implants
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 21 Section 3
 FEP® Blue Focus",3700,0,
-FEP_Blue_Focus_2026,24,"• Residential treatment center care for any condition
+FEHB-Blue-Focus,FEHB,Blue-Focus,24,"• Residential treatment center care for any condition
 • Prosthetic devices (external), including: microprocessor controlled limb prosthesis; electronic
 and externally powered prosthesis
 • Pulmonary rehabilitation
@@ -918,7 +918,7 @@ the Institutional Review Board (IRB) of the Blue Distinction Center for Transpla
 procedure is to be performed.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 22 Section 3
 FEP® Blue Focus",2958,0,
-FEP_Blue_Focus_2026,25,"• Organ/tissue transplants
+FEHB-Blue-Focus,FEHB,Blue-Focus,25,"• Organ/tissue transplants
 Benefits for certain transplants are limited to designated transplant centers or programs.
 Some transplants listed in Section 5(b) must be performed in a transplant program designated as
 a Blue Distinction Center for Transplants.
@@ -966,7 +966,7 @@ no one contacts us for prior approval. If the service is not medically necessary
 benefits. This benefit reduction does not apply to prescription drugs that require prior approval.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 23 Section 3
 FEP® Blue Focus",3713,0,
-FEP_Blue_Focus_2026,26,"• Special prior The examples below provide the special situations regarding prior approval and precertification
+FEHB-Blue-Focus,FEHB,Blue-Focus,26,"• Special prior The examples below provide the special situations regarding prior approval and precertification
 authorization when Medicare is the primary payor.
 situations related to
 Service Type: Inpatient hospital admission
@@ -1020,7 +1020,7 @@ Precertification: Not applicable
 Prior Approval: Yes
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 24 Section 3
 FEP® Blue Focus",2239,0,
-FEP_Blue_Focus_2026,27,"• Prior notification – We encourage you to notify us of your pregnancy during the first trimester. Please contact us at the
+FEHB-Blue-Focus,FEHB,Blue-Focus,27,"• Prior notification – We encourage you to notify us of your pregnancy during the first trimester. Please contact us at the
 Maternity care phone number on the back of your ID card and provide the following information:
 • Enrollee’s name and Plan identification number
 • Expected delivery date
@@ -1062,7 +1062,7 @@ will describe the specific information required and we will allow you up to 60 d
 of the notice to provide the information.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 25 Section 3
 FEP® Blue Focus",3053,0,
-FEP_Blue_Focus_2026,28,"• Urgent care claims If you have an urgent care claim (i.e., when waiting for your medical care or treatment could
+FEHB-Blue-Focus,FEHB,Blue-Focus,28,"• Urgent care claims If you have an urgent care claim (i.e., when waiting for your medical care or treatment could
 seriously jeopardize your life, health, or ability to regain maximum function, or in the opinion of a
 physician with knowledge of your medical condition, would subject you to severe pain that cannot
 be adequately managed without this care or treatment), we will expedite our review of the claim
@@ -1115,7 +1115,7 @@ newborn is considered a patient in their own right. If the newborn is eligible f
 medical or surgical benefits apply rather than maternity benefits.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 26 Section 3
 FEP® Blue Focus",4764,0,
-FEP_Blue_Focus_2026,29,"• If your facility stay If your hospital stay – including for maternity and RTC care – needs to be extended, you, your
+FEHB-Blue-Focus,FEHB,Blue-Focus,29,"• If your facility stay If your hospital stay – including for maternity and RTC care – needs to be extended, you, your
 needs to be extended representative, your physician, or the hospital must ask us to approve the additional days. If you
 remain in the hospital beyond the number of days we approved and did not get the additional days
 precertified, then:
@@ -1157,7 +1157,7 @@ OPM OPM to review it by following Step 3 of the disputed claims process detailed
 brochure.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 27 Section 3
 FEP® Blue Focus",3426,0,
-FEP_Blue_Focus_2026,30,"Section 4. Your Costs for Covered Services
+FEHB-Blue-Focus,FEHB,Blue-Focus,30,"Section 4. Your Costs for Covered Services
 This is what you will pay out-of-pocket for your covered care:
 Cost-share/Cost- Cost-share or cost-sharing is the general term used to refer to your out-of-pocket costs (e.g., deductible,
 sharing coinsurance, and copayments) for the covered care you receive.
@@ -1203,7 +1203,7 @@ Example: If your physician ordinarily charges $100 for a service but routinely w
 coinsurance, the actual charge is $70. We will pay $49 (70% of the actual charge of $70).
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 28 Section 4
 FEP® Blue Focus",3952,0,
-FEP_Blue_Focus_2026,31,"Waivers In some instances, a provider may ask you to sign a “waiver” prior to receiving care. This waiver may
+FEHB-Blue-Focus,FEHB,Blue-Focus,31,"Waivers In some instances, a provider may ask you to sign a “waiver” prior to receiving care. This waiver may
 state that you accept responsibility for the total charge for any care that is not covered by your health
 plan. If you sign such a waiver, whether or not you are responsible for the total charge depends on the
 contracts that the Local Plan has with its providers. If you are asked to sign this type of waiver, please
@@ -1251,7 +1251,7 @@ participating healthcare facilities, or for
 • air ambulance services furnished by nonparticipating air ambulance providers
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 29 Section 4
 FEP® Blue Focus",3899,0,
-FEP_Blue_Focus_2026,32,"Balance billing happens when you receive a bill from the non-participating provider, facility, or air
+FEHB-Blue-Focus,FEHB,Blue-Focus,32,"Balance billing happens when you receive a bill from the non-participating provider, facility, or air
 ambulance service for the difference between the Non-participating provider’s charge and the amount
 payable by your health plan.
 Your health plan must comply with the NSA protections that hold you harmless from bills.
@@ -1301,7 +1301,7 @@ January 1 and the effective date of your new plan.
 described above until the effective date of your new plan.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 30 Section 4
 FEP® Blue Focus",4253,0,
-FEP_Blue_Focus_2026,33,"• If you had not yet paid the out-of-pocket maximum, we will apply any expenses you incur in
+FEHB-Blue-Focus,FEHB,Blue-Focus,33,"• If you had not yet paid the out-of-pocket maximum, we will apply any expenses you incur in
 January (before the effective date of your new plan) to our prior year’s out-of-pocket maximum.
 Once you reach the maximum, you do not need to pay our deductibles, copayments, or coinsurance
 amounts (except as previously shown) from that point until the effective date of your new plan.
@@ -1332,7 +1332,7 @@ FSAFEDS will automatically reimburse your eligible out-of-pocket expenses based 
 information it receives from your plan.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 31 Section 4
 FEP® Blue Focus",2756,0,
-FEP_Blue_Focus_2026,34,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,34,"FEP Blue Focus
 Section 5. FEP Blue Focus Benefits
 See Section 2 for how our benefits changed this year. Near the end of the brochure is a summary of benefits for this plan and Section 5
 provides an overview of FEP Blue Focus.
@@ -1383,7 +1383,7 @@ Outpatient Hospital or Other Covered Facility ..................................
 Section 5(f). Prescription Drug Benefits .....................................................................................................................................84
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 32 FEP Blue Focus Section 5
 FEP® Blue Focus",7965,0,
-FEP_Blue_Focus_2026,35,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,35,"FEP Blue Focus
 Covered Medication and Supplies ....................................................................................................................................90
 Section 5(g). Dental Benefits ......................................................................................................................................................95
 Accidental Injury Benefit ..................................................................................................................................................95
@@ -1408,7 +1408,7 @@ Section 5(i). Services, Drugs, and Supplies Provided Overseas ..................
 Non-FEHB Benefits Available to Plan Members ......................................................................................................................104
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 33 FEP Blue Focus Section 5
 FEP® Blue Focus",3846,0,
-FEP_Blue_Focus_2026,36,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,36,"FEP Blue Focus
 Section 5. FEP Blue Focus Overview
 The benefit package for FEP® Blue Focus is described in Section 5, which is divided into subsections 5(a) through 5(i).
 Please read Important things you should keep in mind at the beginning of the subsections. Also read the general exclusions in Section
@@ -1441,7 +1441,7 @@ You must use Preferred providers for your care to be eligible for benefits, exce
 emergency or accidental injury services. Preferred providers will submit claims to us on your behalf.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 34 FEP Blue Focus Section 5
 FEP® Blue Focus",3358,0,
-FEP_Blue_Focus_2026,37,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,37,"FEP Blue Focus
 Section 5(a). Medical Services and Supplies Provided by Physicians and Other
 Healthcare Professionals
 Important things you should keep in mind about these benefits:
@@ -1489,7 +1489,7 @@ health-related problems, rather than curing disease or treating its symptoms.
 exceptions to this requirement.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 35 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",4009,1,"['Important things you should keep in mind about these benefits:\n• Please remember that all benefits are subject to the definitions, limitations, and exclusions in this brochure\nand are payable only when we determine they are medically necessary.\n• Please refer to Section 3, How You Get Care, for information on covered professional providers and other\nhealthcare professionals.\n• Be sure to read Section 4, Your Costs for Covered Services, for valuable information about how cost-sharing\nworks. Also, read Section 9 for information about how we pay if you have other coverage, or if you are age\n65 or over.\n• We base payment on whether a facility or a healthcare professional bills for the services or supplies. You will\nfind that some benefits are listed in more than one Section of the brochure. This is because how they are paid\ndepends on what type of provider or facility bills for the service.\n• The services listed in this Section are for the charges billed by a physician or other healthcare professional\nfor your medical care. See Section 5(c) for charges associated with the facility (i.e., hospital or other\noutpatient facility, etc.).\n• Benefits for certain self-injectable drugs are limited to one time per therapeutic category of drugs when\nobtained from a covered provider other than a pharmacy under the pharmacy benefit. You must use a\nPreferred pharmacy thereafter. This benefit limitation does not apply if you have primary Medicare Part B\ncoverage. See Section 5(f) for information about Tier 2 specialty drug fills from a Preferred pharmacy.\nMedications restricted under this benefit are available on our FEP Blue Focus Specialty Drug List. Visit\nwww.fepblue.org/specialtypharmacy or call us at 888-346-3731.\n• The calendar year deductibles: $750 per person ($1,500 per Self Plus One or Self and Family enrollment).\nWe state whether or not the calendar year deductible applies for each benefit listed in this section.\n• You must use Preferred providers in order to receive benefits. See below and Section 3 for the exceptions\nto this requirement.\n• We provide benefits at Preferred benefit levels for services provided in Preferred facilities by Non-preferred\nradiologists, anesthesiologists, certified registered nurse anesthetists (CRNAs), pathologists, neonatologists,\nemergency room physicians, and assistant surgeons (including assistant surgeons in a physician’s office). You\nmay be responsible for any difference between our payment and the billed amount. See Section 4, NSA, for\ninformation on when you are not responsible for this difference.\n• You should be aware that some Non-preferred (non-PPO) professional providers may provide services in\nPreferred (PPO) facilities.\n• There is a $10 visit copayment for each of the first 10 visits to a professional provider per calendar year. This\napplies to a combined total for medical and mental health and substance use disorder visits.\n• If you receive both preventive and diagnostic services from your Preferred provider on the same day,\nyou are responsible for paying your cost-share for the diagnostic services. This includes applicable cost-share\nfor diagnostic procedures such as an injection, laboratory, and X-ray services.\n• An incentive award is available for those members (member and/or spouse over age 18) who receive an\nannual routine physical in 2026. Please see Section 5(h) for more information.\nPreventive Care Benefits - Here are some things to keep in mind:\n• Preventive care refers to medical services, counseling, and screenings related to the prevention of disease and\nhealth-related problems, rather than curing disease or treating its symptoms.\n• You must use Preferred providers in order to receive preventive benefits without cost-share, see Section 3 for\nexceptions to this requirement.']"
-FEP_Blue_Focus_2026,38,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,38,"FEP Blue Focus
 Benefit Description You Pay
 Note: We state whether or not the calendar year deductible applies for each benefit listed in this section.
 Diagnostic and Treatment Services FEP Blue Focus
@@ -1551,7 +1551,7 @@ coverage of drugs you receive while in the hospital.)
 Diagnostic and Treatment Services - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 36 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",3059,1,"['Benefit Description', 'You Pay', 'Note: We state whether or not the calendar year deductible applies for each benefit listed in this section.', 'Diagnostic and Treatment Services', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,39,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,39,"FEP Blue Focus
 Benefit Description You Pay
 Diagnostic and Treatment Services (cont.) FEP Blue Focus
 • Second surgical opinion Preferred: 30% of the Plan allowance (deductible
@@ -1611,7 +1611,7 @@ outpatient department of a hospital. between our allowance and the billed amount
 *Prior approval is required.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 37 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",2758,2,"['Benefit Description', 'You Pay', 'Diagnostic and Treatment Services (cont.)', 'FEP Blue Focus', 'Lab, X-ray and Other Diagnostic Tests', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,40,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,40,"FEP Blue Focus
 Benefit Description You Pay
 Preventive Care, Adult FEP Blue Focus
 Benefits are provided for preventive care services for adults age 22 and over. Preferred: Nothing (no deductible)
@@ -1676,7 +1676,7 @@ to one screening
 Preventive Care, Adult - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 38 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",3191,1,"['Benefit Description', 'You Pay', 'Preventive Care, Adult', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,41,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,41,"FEP Blue Focus
 Benefit Description You Pay
 Preventive Care, Adult (cont.) FEP Blue Focus
 • Urinalysis Preferred: Nothing (no deductible)
@@ -1748,7 +1748,7 @@ preventive care benefits are not available.
 Preventive Care, Adult - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 39 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",4078,1,"['Benefit Description', 'You Pay', 'Preventive Care, Adult (cont.)', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,42,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,42,"FEP Blue Focus
 Benefit Description You Pay
 Preventive Care, Adult (cont.) FEP Blue Focus
 Obesity counseling, screening and referral to intensive nutrition and Preferred: Nothing (no deductible)
@@ -1801,7 +1801,7 @@ billed amount (no deductible)
 Preventive Care, Child - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 40 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",3018,2,"['Benefit Description', 'You Pay', 'Preventive Care, Adult (cont.)', 'FEP Blue Focus', 'Preventive Care, Child', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,43,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,43,"FEP Blue Focus
 Benefit Description You Pay
 Preventive Care, Child (cont.) FEP Blue Focus
 • You may also find a complete list of preventive care services recommended Continued from previous page:
@@ -1862,7 +1862,7 @@ Notes:
 Preventive Care, Child - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 41 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",3289,1,"['Benefit Description', 'You Pay', 'Preventive Care, Child (cont.)', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,44,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,44,"FEP Blue Focus
 Benefit Description You Pay
 Preventive Care, Child (cont.) FEP Blue Focus
 • See Section 5(b) for information related to benefits for the surgical Preferred: Nothing (no deductible)
@@ -1924,7 +1924,7 @@ Notes:
 Maternity Care - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 42 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",3206,2,"['Benefit Description', 'You Pay', 'Preventive Care, Child (cont.)', 'FEP Blue Focus', 'Maternity Care', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,45,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,45,"FEP Blue Focus
 Benefit Description You Pay
 Maternity Care (cont.) FEP Blue Focus
 • Maternity care benefits are not provided for prescription drugs required Preferred: Nothing (no deductible)
@@ -1985,7 +1985,7 @@ items for personal comfort or convenience (e.g., nursing pads)
 • Maternity care for members not enrolled in the Service Benefit Plan
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 43 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",3557,1,"['Benefit Description', 'You Pay', 'Maternity Care (cont.)', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,46,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,46,"FEP Blue Focus
 Benefit Description You Pay
 Family Planning FEP Blue Focus
 A range of voluntary family planning services, without cost-sharing, that Preferred: Nothing (no deductible)
@@ -2033,7 +2033,7 @@ Not covered: All charges
 • Over-the-counter (OTC) contraceptives, except as described in Section 5(f)
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 44 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",2521,1,"['Benefit Description', 'You Pay', 'Family Planning', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,47,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,47,"FEP Blue Focus
 Benefit Description You Pay
 Reproductive Services FEP Blue Focus
 Members who meet our definition of infertility in section 10, are eligible for Preferred: 30% of the Plan allowance (deductible
@@ -2085,7 +2085,7 @@ your care
 Allergy Care - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 45 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",2751,2,"['Benefit Description', 'You Pay', 'Reproductive Services', 'FEP Blue Focus', 'Allergy Care', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,48,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,48,"FEP Blue Focus
 Benefit Description You Pay
 Allergy Care (cont.) FEP Blue Focus
 Note: See earlier in this section for applicable office visit copayment. Preferred: 30% of the Plan allowance (deductible
@@ -2138,7 +2138,7 @@ applies)
 Treatment Therapies - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 46 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",2485,2,"['Benefit Description', 'You Pay', 'Allergy Care (cont.)', 'FEP Blue Focus', 'Treatment Therapies', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,49,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,49,"FEP Blue Focus
 Benefit Description You Pay
 Treatment Therapies (cont.) FEP Blue Focus
 • Chemotherapy and radiation therapy Preferred: 30% of the Plan allowance (deductible
@@ -2193,7 +2193,7 @@ You pay all charges
 Hearing Services - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 47 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",2743,3,"['Benefit Description', 'You Pay', 'Treatment Therapies (cont.)', 'FEP Blue Focus', 'Physical Therapy, Occupational Therapy, Speech Therapy, and\nCognitive Rehabilitation Therapy', 'FEP Blue Focus', 'Hearing Services', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,50,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,50,"FEP Blue Focus
 Benefit Description You Pay
 Hearing Services (cont.) FEP Blue Focus
 Note: You pay 30% of the Plan allowance
@@ -2246,7 +2246,7 @@ appropriate option due to age or medical condition;
 Vision Services (Testing, Treatment, and Supplies) - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 48 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",2559,2,"['Benefit Description', 'You Pay', 'Hearing Services (cont.)', 'FEP Blue Focus', 'Vision Services (Testing, Treatment, and Supplies)', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,51,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,51,"FEP Blue Focus
 Benefit Description You Pay
 Vision Services (Testing, Treatment, and Supplies) (cont.) FEP Blue Focus
 • For the nonsurgical treatment for amblyopia and strabismus, for children Preferred: 30% of the Plan allowance (deductible
@@ -2295,7 +2295,7 @@ dysfunction
 Orthopedic and Prosthetic Devices - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 49 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",2643,3,"['Benefit Description', 'You Pay', 'Vision Services (Testing, Treatment, and Supplies) (cont.)', 'FEP Blue Focus', 'Foot Care', 'FEP Blue Focus', 'Orthopedic and Prosthetic Devices', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,52,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,52,"FEP Blue Focus
 Benefit Description You Pay
 Orthopedic and Prosthetic Devices (cont.) FEP Blue Focus
 Note: A prosthetic appliance is a device that is surgically inserted or Preferred: 30% of the Plan allowance (deductible
@@ -2346,7 +2346,7 @@ scooters and related supplies.
 Durable Medical Equipment (DME) - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 50 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",2364,2,"['Benefit Description', 'You Pay', 'Orthopedic and Prosthetic Devices (cont.)', 'FEP Blue Focus', 'Durable Medical Equipment (DME)', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,53,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,53,"FEP Blue Focus
 Benefit Description You Pay
 Durable Medical Equipment (DME) (cont.) FEP Blue Focus
 Note: We cover DME at Preferred benefit levels only when you use a Preferred: 30% of the Plan allowance (deductible
@@ -2398,7 +2398,7 @@ Part B is primary
 • Medical foods administered orally, except as described in Section 5(f)
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 51 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",2630,2,"['Benefit Description', 'You Pay', 'Durable Medical Equipment (DME) (cont.)', 'FEP Blue Focus', 'Medical Supplies', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,54,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,54,"FEP Blue Focus
 Benefit Description You Pay
 Home Health Services FEP Blue Focus
 Home nursing care (skilled) for two hours per day limited to 10 visits when: Preferred: $25 copayment per visit (no deductible)
@@ -2414,7 +2414,7 @@ with your care.
 Home Health Services - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 52 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",697,1,"['Benefit Description', 'You Pay', 'Home Health Services', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,55,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,55,"FEP Blue Focus
 Benefit Description You Pay
 Home Health Services (cont.) FEP Blue Focus
 Not covered: All charges
@@ -2468,7 +2468,7 @@ covered
 Educational Classes and Programs - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 53 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",2955,3,"['Benefit Description', 'You Pay', 'Home Health Services (cont.)', 'FEP Blue Focus', 'Alternative/Manipulative Treatment', 'FEP Blue Focus', 'Educational Classes and Programs', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,56,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,56,"FEP Blue Focus
 Benefit Description You Pay
 Educational Classes and Programs (cont.) FEP Blue Focus
 • Recreational or educational therapy, and any related diagnostic testing All charges
@@ -2477,7 +2477,7 @@ except as provided by a hospital as part of a covered inpatient stay
 its staff
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 54 FEP Blue Focus Section 5(a)
 FEP® Blue Focus",440,1,"['Benefit Description', 'You Pay', 'Educational Classes and Programs (cont.)', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,57,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,57,"FEP Blue Focus
 Section 5(b). Surgical and Anesthesia Services Provided by Physicians and Other
 Healthcare Professionals
 Important things you should keep in mind about these benefits:
@@ -2527,7 +2527,7 @@ may be responsible for any difference between our payment and the billed amount.
 information on when you are not responsible for this difference.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 55 FEP Blue Focus Section 5(b)
 FEP® Blue Focus",3998,1,"['Important things you should keep in mind about these benefits:\n• Please remember that all benefits are subject to the definitions, limitations, and exclusions in this brochure\nand are payable only when we determine they are medically necessary.\n• Be sure to read Section 4, Your Costs for Covered Services, for valuable information about how cost-sharing\nworks. Also, read Section 9 for information about how we pay if you have other coverage, or if you are age\n65 or over.\n• We base payment on whether a facility or a healthcare professional bills for the services or supplies. You will\nfind that some benefits are listed in more than one Section of the brochure. This is because how they are paid\ndepends on what type of provider bills for the service.\n• The services listed in this Section are for the charges billed by a physician or other healthcare professional\nfor your surgical care. See Section 5(c) for charges associated with a facility (i.e., hospital, surgical center,\netc.).\n• Benefits for certain self-injectable drugs are limited to one time per therapeutic category of drugs when\nobtained from a covered provider other than a pharmacy under the pharmacy benefit. You must use a\nPreferred pharmacy thereafter. This benefit limitation does not apply if you have primary Medicare Part B\ncoverage. See Section 5(f) for information about specialty drug fills from a Preferred pharmacy. Medications\nrestricted under this benefit are available on our FEP Blue Focus Specialty Drug List. Visit www.fepblue.org/\nspecialtypharmacy or call us at 888-346-3731.\n• YOU MUST GET PRIOR APPROVAL for services such as the following: surgery for severe obesity\nand oral maxillofacial surgeries/surgery on the jaw, cheeks, lips, tongue, roof and floor of the mouth,\nand related procedures.\n• YOU MUST GET PRIOR APPROVAL for all organ transplant surgical procedures; and if your\nsurgical procedure requires an inpatient admission, YOU MUST GET PRECERTIFICATION. Please\nrefer to the prior approval and precertification information shown in Section 3 to be sure which\nservices require prior approval or precertification.\n• YOU MUST GET PRIOR APPROVAL FOR CERTAIN PROCEDURES; FAILURE TO DO SO\nWILL RESULT IN A $100 PENALTY. Please refer to Section 3 for the complete list of services which\nrequire prior approval.\n• When multiple surgical procedures that add time or complexity to patient care are performed during the same\noperative session, the Local Plan determines our allowance for the combination of multiple or incidental\nsurgical procedures. Generally, we will allow a reduced amount for procedures other than the primary\nprocedure.\n• We do not pay extra for “incidental” procedures (those that do not add time or complexity to patient care).\n• When unusual circumstances require the removal of casts or sutures by a physician other than the one\nwho applied them, the Local Plan may determine that a separate allowance is payable.\n• The calendar year deductible is: $750 per person ($1,500 per Self Plus One or Self and Family\nenrollment). We state whether or not the calendar year deductible applies for each benefit listed in this\nsection.\n• You must use Preferred providers in order to receive benefits. See below and Section 3 for the\nexceptions to this requirement.\n• We provide benefits at Preferred benefit levels for services provided in Preferred facilities by Non-preferred\nradiologists, anesthesiologists, certified registered nurse anesthetists (CRNAs), pathologists, neonatologists,\nemergency room physicians, and assistant surgeons (including assistant surgeons in a physician’s office). You\nmay be responsible for any difference between our payment and the billed amount. See Section 4, NSA, for\ninformation on when you are not responsible for this difference.']"
-FEP_Blue_Focus_2026,58,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,58,"FEP Blue Focus
 Benefit Description You Pay
 Note: We state whether or not the calendar year deductible applies for each benefit listed in this section.
 Surgical Procedures FEP Blue Focus
@@ -2577,7 +2577,7 @@ Not covered: All charges
 Surgical Procedures - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 56 FEP Blue Focus Section 5(b)
 FEP® Blue Focus",2609,1,"['Benefit Description', 'You Pay', 'Note: We state whether or not the calendar year deductible applies for each benefit listed in this section.', 'Surgical Procedures', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,59,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,59,"FEP Blue Focus
 Benefit Description You Pay
 Surgical Procedures (cont.) FEP Blue Focus
 • Services of a standby physician All charges
@@ -2628,7 +2628,7 @@ placement of penile prostheses to treat erectile dysfunction)
 Reconstructive Surgery - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 57 FEP Blue Focus Section 5(b)
 FEP® Blue Focus",2975,2,"['Benefit Description', 'You Pay', 'Surgical Procedures (cont.)', 'FEP Blue Focus', 'Reconstructive Surgery', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,60,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,60,"FEP Blue Focus
 Benefit Description You Pay
 Reconstructive Surgery (cont.) FEP Blue Focus
 • Sex-Trait Modification: If you are mid-treatment under this Plan, within a All charges
@@ -2677,7 +2677,7 @@ associated with surgery to correct accidental injuries as specifically described
 above and in Section 5(g)
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 58 FEP Blue Focus Section 5(b)
 FEP® Blue Focus",2947,2,"['Benefit Description', 'You Pay', 'Reconstructive Surgery (cont.)', 'FEP Blue Focus', 'Oral and Maxillofacial Surgery', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,61,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,61,"FEP Blue Focus
 Organ/Tissue Transplants
 Covered solid organ/tissue transplants listed below are subject to medical necessity and experimental/investigational review, and to
 the prior approval requirements shown below.
@@ -2729,7 +2729,7 @@ pancreas
 Organ/Tissue Transplants - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 59 FEP Blue Focus Section 5(b)
 FEP® Blue Focus",3510,1,"['Benefit Description', 'You Pay', 'Organ/Tissue Transplants', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,62,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,62,"FEP Blue Focus
 Benefit Description You Pay
 Organ/Tissue Transplants (cont.) FEP Blue Focus
 The blood or marrow stem cell transplants (adult and pediatric) listed Preferred: 30% of the Plan allowance (deductible
@@ -2775,7 +2775,7 @@ of future disability) and Scleroderma/systemic sclerosis
 • High-risk or relapsed neuroblastoma
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 60 FEP Blue Focus Section 5(b)
 FEP® Blue Focus",3246,1,"['Benefit Description', 'You Pay', 'Organ/Tissue Transplants (cont.)', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,63,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,63,"FEP Blue Focus
 • Hodgkin lymphoma
 • Non-Hodgkin lymphoma (e.g., Waldenstrom’s macroglobulinemia, B-cell lymphoma, Burkitt lymphoma)
 • Osteosarcoma
@@ -2816,7 +2816,7 @@ clinical trial. If your physician has recommended you participate in a clinical 
 number on the back of your ID card for assistance in determining if a covered clinical trial is available in a covered facility.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 61 FEP Blue Focus Section 5(b)
 FEP® Blue Focus",3421,0,
-FEP_Blue_Focus_2026,64,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,64,"FEP Blue Focus
 Benefit Description You Pay
 Organ/Tissue Transplants FEP Blue Focus
 Related transplant services: Preferred: 30% of the Plan allowance
@@ -2873,7 +2873,7 @@ not been obtained; travel costs outside those allowed by IRS regulations, such a
 food-related expenses
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 62 FEP Blue Focus Section 5(b)
 FEP® Blue Focus",3454,1,"['Benefit Description', 'You Pay', 'Organ/Tissue Transplants', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,65,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,65,"FEP Blue Focus
 Benefit Description You Pay
 Anesthesia FEP Blue Focus
 Anesthesia services consist of administration by injection or inhalation of a drug or Preferred: 30% of the Plan allowance
@@ -2898,7 +2898,7 @@ maximum.
 • See Section 5(c) for our payment levels for anesthesia services billed by a facility.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 63 FEP Blue Focus Section 5(b)
 FEP® Blue Focus",1178,1,"['Benefit Description', 'You Pay', 'Anesthesia', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,66,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,66,"FEP Blue Focus
 Section 5(c). Services Provided by a Hospital or Other Facility, and Ambulance
 Services
 Important things you should keep in mind about these benefits:
@@ -2940,7 +2940,7 @@ restricted under this benefit are available on our FEP Blue Focus Specialty Drug
 specialtypharmacy or call us at 888-346-3731.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 64 FEP Blue Focus Section 5(c)
 FEP® Blue Focus",3375,1,"['Important things you should keep in mind about these benefits:\n• Please remember that all benefits are subject to the definitions, limitations, and exclusions in this brochure\nand are payable only when we determine they are medically necessary.\n• Be sure to read Section 4, Your Costs for Covered Services, for valuable information about how cost-sharing\nworks. Also, read Section 9 for information about how we pay if you have other coverage, or if you are age\n65 or over.\n• YOU MUST GET PRECERTIFICATION FOR HOSPITAL STAYS; FAILURE TO DO SO WILL\nRESULT IN A $500 PENALTY. Please refer to the precertification information listed in Section 3 to be sure\nwhich services require precertification.\n• Note: Observation services are billed as outpatient facility care. Benefits for observation services are\nprovided at the outpatient facility benefit levels described in this section. See Section 10, Definitions, for\nmore information about these types of services.\n• YOU MUST GET PRIOR APPROVAL for services such as the following: surgery for severe obesity\nand oral maxillofacial surgeries/surgery on the jaw, cheeks, lips, tongue, roof and floor of the mouth,\nand related procedures.\n• When PRIOR APPROVAL IS REQUIRED for a surgical procedure and the surgery is performed on an\ninpatient basis, YOU MUST ALSO GET PRECERTIFICATION for the inpatient admission.\n• You should be aware that some Non-preferred (non-PPO) professional providers may provide services in\nPreferred (PPO) facilities.\n• You must use Preferred providers in order to receive benefits. See Section 3 for the exceptions to this\nrequirement.\n- You are responsible for the applicable cost-sharing amounts for care performed and billed by Preferred\nprofessional providers in the outpatient department of a Preferred hospital.\n• We base payment on whether a facility or a healthcare professional bills for the services or supplies. You will\nfind that some benefits are listed in more than one Section of the brochure. This is because how they are paid\ndepends on what type of provider or facility bills for the service.\n• The services listed in this Section are for the charges billed by the facility (i.e., hospital or surgical center) or\nambulance service, for your inpatient or outpatient surgery or care. Any costs associated with the professional\ncharge (i.e., physicians, etc.) are listed in Sections 5(a) or 5(b).\n• The calendar year deductible is $750 per person ($1,500 per Self Plus One or Self and Family enrollment).\nWe state whether or not the calendar year deductible applies for each benefit listed in this section.\n• Benefits for certain self-injectable drugs are limited to one time per therapeutic category of drugs when\nobtained from a covered provider other than a pharmacy under the pharmacy benefit. You must use a\nPreferred pharmacy, thereafter. This benefit limitation does not apply if you have primary Medicare Part B\ncoverage. See Section 5(f) for information about specialty drug fills from a Preferred pharmacy. Medications\nrestricted under this benefit are available on our FEP Blue Focus Specialty Drug List. Visit www.fepblue.org/\nspecialtypharmacy or call us at 888-346-3731.']"
-FEP_Blue_Focus_2026,67,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,67,"FEP Blue Focus
 Benefit Description You Pay
 Note: The calendar year deductible applies to almost all benefits in this Section. We say ""(No deductible)"" when it does not
 apply.
@@ -2990,7 +2990,7 @@ center.
 Inpatient Hospital - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 65 FEP Blue Focus Section 5(c)
 FEP® Blue Focus",2485,1,"['Benefit Description', 'You Pay', 'Note: The calendar year deductible applies to almost all benefits in this Section. We say ""(No deductible)"" when it does not\napply.', 'Inpatient Hospital', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,68,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,68,"FEP Blue Focus
 Benefit Description You Pay
 Inpatient Hospital (cont.) FEP Blue Focus
 Not covered: All charges
@@ -3039,7 +3039,7 @@ during a covered hospital admission or during a covered observation stay
 Maternity – Facility - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 66 FEP Blue Focus Section 5(c)
 FEP® Blue Focus",2756,2,"['Benefit Description', 'You Pay', 'Inpatient Hospital (cont.)', 'FEP Blue Focus', 'Maternity – Facility', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,69,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,69,"FEP Blue Focus
 Benefit Description You Pay
 Maternity – Facility (cont.) FEP Blue Focus
 Notes: Preferred facilities: $2,500 copayment per
@@ -3088,7 +3088,7 @@ Regular medical or surgical benefits apply rather than maternity benefits.
 Maternity – Facility - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 67 FEP Blue Focus Section 5(c)
 FEP® Blue Focus",2452,1,"['Benefit Description', 'You Pay', 'Maternity – Facility (cont.)', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,70,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,70,"FEP Blue Focus
 Benefit Description You Pay
 Maternity – Facility (cont.) FEP Blue Focus
 Not covered: All charges
@@ -3134,7 +3134,7 @@ treatment services
 Outpatient Hospital or Ambulatory Surgical Center - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 68 FEP Blue Focus Section 5(c)
 FEP® Blue Focus",2424,2,"['Benefit Description', 'You Pay', 'Maternity – Facility (cont.)', 'FEP Blue Focus', 'Outpatient Hospital or Ambulatory Surgical Center', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,71,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,71,"FEP Blue Focus
 Benefit Description You Pay
 Outpatient Hospital or Ambulatory Surgical Center (cont.) FEP Blue Focus
 • Observation services Preferred facilities: 30% of the Plan allowance
@@ -3186,7 +3186,7 @@ care at birthing facilities, see Maternity – Facility, earlier in this section
 Outpatient Hospital or Ambulatory Surgical Center - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 69 FEP Blue Focus Section 5(c)
 FEP® Blue Focus",2449,1,"['Benefit Description', 'You Pay', 'Outpatient Hospital or Ambulatory Surgical Center (cont.)', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,72,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,72,"FEP Blue Focus
 Benefit Description You Pay
 Outpatient Hospital or Ambulatory Surgical Center (cont.) FEP Blue Focus
 Outpatient treatment and therapy services performed and billed by a Preferred facilities: $25 copayment per visit (no
@@ -3244,7 +3244,7 @@ basis.
 Outpatient Hospital or Ambulatory Surgical Center - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 70 FEP Blue Focus Section 5(c)
 FEP® Blue Focus",2915,1,"['Benefit Description', 'You Pay', 'Outpatient Hospital or Ambulatory Surgical Center (cont.)', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,73,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,73,"FEP Blue Focus
 Benefit Description You Pay
 Outpatient Hospital or Ambulatory Surgical Center (cont.) FEP Blue Focus
 Outpatient drugs, medical devices, and durable medical equipment billed Preferred facilities: 30% of the Plan allowance
@@ -3297,7 +3297,7 @@ beauty and barber service
 Residential Treatment Center - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 71 FEP Blue Focus Section 5(c)
 FEP® Blue Focus",2520,2,"['Benefit Description', 'You Pay', 'Outpatient Hospital or Ambulatory Surgical Center (cont.)', 'FEP Blue Focus', 'Residential Treatment Center', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,74,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,74,"FEP Blue Focus
 Benefit Description You Pay
 Residential Treatment Center (cont.) FEP Blue Focus
 Note: Residential treatment center benefits are not available for facilities All charges
@@ -3342,7 +3342,7 @@ member’s primary care provider or specialist.
 Hospice Care - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 72 FEP Blue Focus Section 5(c)
 FEP® Blue Focus",2588,3,"['Benefit Description', 'You Pay', 'Residential Treatment Center (cont.)', 'FEP Blue Focus', 'Extended Care Benefits/Skilled Nursing Care Facility Benefits', 'FEP Blue Focus', 'Hospice Care', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,75,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,75,"FEP Blue Focus
 Benefit Description You Pay
 Hospice Care (cont.) FEP Blue Focus
 Pre-Hospice Enrollment Benefits Preferred: 30% of the Plan allowance (deductible
@@ -3392,7 +3392,7 @@ You pay all charges
 Hospice Care - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 73 FEP Blue Focus Section 5(c)
 FEP® Blue Focus",2467,1,"['Benefit Description', 'You Pay', 'Hospice Care (cont.)', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,76,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,76,"FEP Blue Focus
 Benefit Description You Pay
 Hospice Care (cont.) FEP Blue Focus
 Services provided in the home during a period of crisis, such as frequent Preferred facilities: Nothing (no deductible)
@@ -3446,7 +3446,7 @@ you travel outside the United States, Puerto Rico and the U.S. Virgin Islands
 Ambulance - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 74 FEP Blue Focus Section 5(c)
 FEP® Blue Focus",2876,2,"['Benefit Description', 'You Pay', 'Hospice Care (cont.)', 'FEP Blue Focus', 'Ambulance', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,77,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,77,"FEP Blue Focus
 Benefit Description You Pay
 Ambulance (cont.) FEP Blue Focus
 Note: If you are traveling overseas and need assistance with emergency 30% of the Plan allowance (deductible applies)
@@ -3470,7 +3470,7 @@ your home country.
 closest hospital equipped to adequately treat your condition
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 75 FEP Blue Focus Section 5(c)
 FEP® Blue Focus",1390,1,"['Benefit Description', 'You Pay', 'Ambulance (cont.)', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,78,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,78,"FEP Blue Focus
 Section 5(d). Emergency Services/Accidents
 Important things you should keep in mind about these benefits:
 • Please remember that all benefits are subject to the definitions, limitations, and exclusions in this brochure
@@ -3513,7 +3513,7 @@ attention to result in serious jeopardy to the person’s health, or with respec
 unborn child.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 76 FEP Blue Focus Section 5(d)
 FEP® Blue Focus",3784,1,"['Important things you should keep in mind about these benefits:\n• Please remember that all benefits are subject to the definitions, limitations, and exclusions in this brochure\nand are payable only when we determine they are medically necessary.\n• Be sure to read Section 4, Your Costs for Covered Services, for valuable information about how cost-sharing\nworks. Also, read Section 9 for information about how we pay if you have other coverage, or if you are age\n65 or over.\n• You should be aware that some Non-preferred (non-PPO) professional providers may provide services in\nPreferred (PPO) facilities.\n• You must use Preferred providers in order to receive benefits, except in cases of medical emergency or\naccidental injury. Refer to the guidelines appearing below for additional information.\n• We provide benefits at Preferred benefit levels for emergency department services performed by both PPO\nand non-PPO providers when their services are related to an accidental injury or medical emergency. The\nPlan allowance for these services is determined by the contracting status of the provider. Note: For\ninformation regarding the Plan allowance, see Section 10, Definitions. If services are performed by non-PPO\nprofessional providers in a PPO facility, you will be responsible for your cost-share for those services. For\nmore information, see Section 4, NSA.\n• The calendar year deductible is $750 per person ($1,500 per Self Plus One or Self and Family\nenrollment). We state whether or not the calendar year deductible applies for each benefit listed in this\nsection.']"
-FEP_Blue_Focus_2026,79,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,79,"FEP Blue Focus
 Benefit Description You pay
 Note: We state whether or not the calendar year deductible applies for each benefit listed in this section.
 Accidental Injury FEP Blue Focus
@@ -3578,7 +3578,7 @@ Section 3.
 Accidental Injury - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 77 FEP Blue Focus Section 5(d)
 FEP® Blue Focus",3533,1,"['Benefit Description', 'You pay', 'Note: We state whether or not the calendar year deductible applies for each benefit listed in this section.', 'Accidental Injury', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,80,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,80,"FEP Blue Focus
 Benefit Description You pay
 Accidental Injury (cont.) FEP Blue Focus
 Urgent care centers, not licensed as or permitted to provide emergency Preferred urgent care center: Nothing (no
@@ -3634,7 +3634,7 @@ than the urgent care center are stated in Section 5(a), DME.
 Medical Emergency - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 78 FEP Blue Focus Section 5(d)
 FEP® Blue Focus",2971,2,"['Benefit Description', 'You pay', 'Accidental Injury (cont.)', 'FEP Blue Focus', 'Medical Emergency', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,81,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,81,"FEP Blue Focus
 Benefit Description You pay
 Medical Emergency (cont.) FEP Blue Focus
 • Urgent care centers, not licensed as or permitted to provide emergency Preferred urgent care center: $25 copayment per
@@ -3650,7 +3650,7 @@ Ambulance FEP Blue Focus
 See Section 5(c) for complete ambulance benefit and coverage information. See Section 5(c)
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 79 FEP Blue Focus Section 5(d)
 FEP® Blue Focus",918,2,"['Benefit Description', 'You pay', 'Medical Emergency (cont.)', 'FEP Blue Focus', 'Ambulance', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,82,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,82,"FEP Blue Focus
 Section 5(e). Mental Health and Substance Use Disorder Benefits
 Important things you should keep in mind about these benefits:
 • Please remember that all benefits are subject to the definitions, limitations, and exclusions in this brochure
@@ -3691,7 +3691,7 @@ license.
 Professional Services - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 80 FEP Blue Focus Section 5(e)
 FEP® Blue Focus",3148,2,"['Important things you should keep in mind about these benefits:\n• Please remember that all benefits are subject to the definitions, limitations, and exclusions in this brochure\nand are payable only when we determine they are medically necessary.\n• If you have an acute chronic and/or complex condition, you may be eligible to receive the services of a\nprofessional case manager to assist in assessing, planning, and facilitating individualized treatment options\nand care. For more information about our Case Management process, please refer to Section 5(h). Contact us\nat the phone number listed on the back of your ID card if you have any questions or would like to discuss\nyour healthcare needs.\n• Be sure to read Section 4, Your Costs for Covered Services, for valuable information about how cost-sharing\nworks. Also, read Section 9 for information about how we pay if you have other coverage, or if you are age\n65 or over.\n• Every year, we conduct an analysis of the financial requirements and treatment limitations which apply to\nthis Plan’s mental health and substance use disorder benefits in compliance with the federal Mental Health\nParity and Addiction Equity Act (the Act), and the Act’s implementing regulations. Based on the results of\nthis analysis, we may suggest changes to program benefits to OPM. More information on the Act is available\non the following Federal Government websites:\nhttps://www.dol.gov/ebsa/\nhttps://www.samhsa.gov/health-financing/implementation-mental-health-parity-addiction-equity-act\nhttps://www.cms.gov/CCIIO/Programs-and-Initiatives/Other-Insurance-Protections/mhpaea_factsheet.html\n• YOU MUST GET PRECERTIFICATION FOR HOSPITAL OR RESIDENTIAL TREATMENT\nCENTER STAYS; FAILURE TO DO SO WILL RESULT IN A $500 PENALTY. Please refer to the\nprecertification information listed in Section 3.\n• The calendar year deductible is $750 per person ($1,500 per Self Plus One or Self and Family enrollment).\nWe state whether or not the calendar year deductible applies for each benefit listed in this section.\n• You must use Preferred providers in order to receive benefits. See Section 3 for the exceptions to this\nrequirement.\n• You should be aware that some Non-preferred (non-PPO) professional providers may provide services in\nPreferred (PPO) facilities.\n• There is a $10 visit copayment for each of the first 10 visits to a professional provider per calendar year. This\napplies to a combined total for medical and mental health and substance use disorder conditions.', 'Benefit Description', 'You Pay', 'Note: We state whether or not the calendar year deductible applies for each benefit listed in this section.', 'Professional Services', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,83,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,83,"FEP Blue Focus
 Benefit Description You Pay
 Professional Services (cont.) FEP Blue Focus
 Services provided by licensed professional mental health and substance use Preferred: $10 copayment (no deductible) per visit
@@ -3742,7 +3742,7 @@ Non-preferred (Participating/Non-participating):
 testing
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 81 FEP Blue Focus Section 5(e)
 FEP® Blue Focus",2591,1,"['Benefit Description', 'You Pay', 'Professional Services (cont.)', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,84,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,84,"FEP Blue Focus
 Benefit Description You Pay
 Inpatient Hospital or Other Covered Facility FEP Blue Focus
 Inpatient services to treat mental health and/or substance use disorders Preferred facilities: 30% of the Plan allowance
@@ -3794,7 +3794,7 @@ You pay all charges
 Outpatient Hospital or Other Covered Facility - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 82 FEP Blue Focus Section 5(e)
 FEP® Blue Focus",2891,3,"['Benefit Description', 'You Pay', 'Inpatient Hospital or Other Covered Facility', 'FEP Blue Focus', 'Residential Treatment Center', 'FEP Blue Focus', 'Outpatient Hospital or Other Covered Facility', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,85,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,85,"FEP Blue Focus
 Benefit Description You Pay
 Outpatient Hospital or Other Covered Facility (cont.) FEP Blue Focus
 Note: We cover outpatient mental health and substance use disorder services Preferred facilities: 30% of the Plan allowance
@@ -3827,7 +3827,7 @@ email communications, or asynchronous store-and-forward telehealth
 services
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 83 FEP Blue Focus Section 5(e)
 FEP® Blue Focus",1793,1,"['Benefit Description', 'You Pay', 'Outpatient Hospital or Other Covered Facility (cont.)', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,86,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,86,"FEP Blue Focus
 Section 5(f). Prescription Drug Benefits
 Important things you should keep in mind about these benefits for members enrolled in our regular
 pharmacy program:
@@ -3874,7 +3874,7 @@ certain U.S. FDA-approved drugs when multiple generic equivalents/alternative me
 • The Blue Cross and Blue Shield Service Benefit Plan’s FEP Blue Focus uses a closed formulary.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 84 FEP Blue Focus Section 5(f)
 FEP® Blue Focus",3822,1,"['Important things you should keep in mind about these benefits for members enrolled in our regular\npharmacy program:\n• We cover prescription drugs and supplies, as described below and on the following pages for members\nenrolled in our regular pharmacy drug program.\n• If there is no generic drug available, you must pay the brand-name cost-sharing amount when you receive a\nbrand-name drug.\n• If there is a generic substitution available and you or your provider requests a brand-name drug, you will be\nresponsible for the applicable cost-share plus the difference in the costs of the brand-name and generic drugs.\n• If the cost of your prescription is less than your cost-sharing amount, you pay only the cost of your\nprescription.\n• Please remember that all benefits are subject to the definitions, limitations, and exclusions in this brochure\nand are payable only when we determine they are medically necessary.\n• Benefits for certain self-injectable (self-administered) drugs are provided only when they are dispensed by a\npharmacy under the pharmacy benefit.\n• Benefits for certain auto-immune infusion medications (limited to Remicade, Renflexis and Inflectra) are\ncovered only when they are obtained from a non-pharmacy provider, such as a physician or facility (hospital\nor ambulatory surgical center). See Drugs From Other Sources in this section for more information.\n• Be sure to read Section 4, Your Costs for Covered Services, for valuable information about how cost-sharing\nworks. Also, read Section 9 for information about how we pay if you have other coverage, or if you are age\n65 or over.\n• Medication prices vary among different retail pharmacies and the Specialty Drug Pharmacy Program.\nReview purchasing options for your prescriptions to get the best price. A drug cost tool is available at\nwww.fepblue.org or call:\n- Retail Pharmacy Program: 800-624-5060, TTY: 711\n- Specialty Drug Pharmacy Program: 888-346-3731, TTY: 711\n• YOU MUST GET PRIOR APPROVAL FOR CERTAIN DRUGS AND SUPPLIES, and prior approval\nmust be renewed periodically. Prior approval is part of our Patient Safety and Quality Monitoring (PSQM)\nprogram. Please keep reading for more information about the PSQM program and refer to Section 3 for more\ninformation about prior approval. Our prior approval process may include step therapy, which requires you to\nuse a generic and/or preferred medication(s) before a non-preferred medication is covered.\n• During the course of the year, we may move a brand-name drug from Tier 2 (preferred brand-name, preferred\ngeneric specialty and preferred brand-name specialty drugs) to noncovered if a generic equivalent or\nbiosimilar becomes available or if new safety concerns arise. If your drug is moved to noncovered, you pay\nthe full cost of the medication. Tier reassignments during the year are not considered benefit changes.\n• A pharmacy restriction may be applied for clinically inappropriate use of prescription drugs and supplies.\n• You must use Preferred FEP Blue Focus retail pharmacies or the Specialty Drug Pharmacy Program\nin order to receive benefits. Our specialty drug pharmacy is a Preferred pharmacy.\n• There is no calendar year deductible for the Retail Pharmacy Program or the Specialty Drug Pharmacy\nProgram.\n• The FEP Blue Focus formulary contains a comprehensive list of drugs under all therapeutic categories with\ntwo exceptions: some drugs, nutritional supplements and supplies are noncovered; we may also exclude\ncertain U.S. FDA-approved drugs when multiple generic equivalents/alternative medications are available.\n• The Blue Cross and Blue Shield Service Benefit Plan’s FEP Blue Focus uses a closed formulary.']"
-FEP_Blue_Focus_2026,87,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,87,"FEP Blue Focus
 • The exclusion for hormone treatments for Sex-Trait Modification for gender dysphoria only pertains to
 chemical and surgical modification of an individual's sex traits (including as part of ""gender transition""
 services). We do not exclude coverage for entire classes of pharmaceuticals, e.g., GnRH agonists may be
@@ -3918,7 +3918,7 @@ Other than changes resulting from new drugs or safety issues, the preferred drug
 year and not considered a benefit change.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 85 FEP Blue Focus Section 5(f)
 FEP® Blue Focus",3878,1,"['• The exclusion for hormone treatments for Sex-Trait Modification for gender dysphoria only pertains to\nchemical and surgical modification of an individual\'s sex traits (including as part of ""gender transition""\nservices). We do not exclude coverage for entire classes of pharmaceuticals, e.g., GnRH agonists may be\nprescribed during IVF, for reduction of endometriosis or fibroids, and for cancer treatment or prostate cancer/\ntumor growth prevention.']"
-FEP_Blue_Focus_2026,88,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,88,"FEP Blue Focus
 - Member cost-share for prescription drugs is determined by the tier to which a drug has been assigned. To determine the tier
 assignments for formulary drugs, we work with our Pharmacy and Medical Policy Committee, a group of physicians and
 pharmacists who are not employees or agents of, nor have financial interest in, the Blue Cross and Blue Shield Service Benefit
@@ -3967,7 +3967,7 @@ event of a national or other emergency, or if you are a reservist or National Gu
 you should contact us regarding your prescription drug needs.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 86 FEP Blue Focus Section 5(f)
 FEP® Blue Focus",4673,0,
-FEP_Blue_Focus_2026,89,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,89,"FEP Blue Focus
 - Benefits for certain self-injectable (self-administered) drugs are provided only when they are dispensed by a pharmacy under the
 pharmacy benefit. Medical benefits will be provided for a one-time dose per therapeutic category of drugs dispensed by your
 provider or any non-pharmacy-benefit provider. This benefit limitation does not apply if you have primary Medicare Part B
@@ -4014,7 +4014,7 @@ necessary to prevent clinical deterioration in members at nutritional risk.
 Must meet the definition of medical food described in Section 10.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 87 FEP Blue Focus Section 5(f)
 FEP® Blue Focus",4346,0,
-FEP_Blue_Focus_2026,90,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,90,"FEP Blue Focus
 Must be receiving active, regular, and ongoing medical supervision and must be unable to manage the condition by modification of
 diet alone.
 Coverage is provided as follows:
@@ -4068,7 +4068,7 @@ hemophilia
 Covered Medication and Supplies - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 88 FEP Blue Focus Section 5(f)
 FEP® Blue Focus",3319,1,"['Benefit Description', 'You Pay', 'Note: We state whether or not the calendar year deductible applies for each benefit listed in this section.', 'Covered Medication and Supplies', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,91,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,91,"FEP Blue Focus
 Benefit Description You Pay
 Covered Medication and Supplies (cont.) FEP Blue Focus
 • Contraceptive drugs and devices, limited to: Continued from previous page:
@@ -4118,7 +4118,7 @@ the phone number below or visit our website, www.fepblue.org. (See
 Section 10 for the definition of ""specialty drugs."")
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 89 FEP Blue Focus Section 5(f)
 FEP® Blue Focus",2682,1,"['Benefit Description', 'You Pay', 'Covered Medication and Supplies (cont.)', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,92,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,92,"FEP Blue Focus
 Benefit Description You Pay
 Note: We state whether or not the calendar year deductible applies for each benefit listed in this section.
 Covered Medication and Supplies FEP Blue Focus
@@ -4175,7 +4175,7 @@ Notes:
 Covered Medication and Supplies - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 90 FEP Blue Focus Section 5(f)
 FEP® Blue Focus",3322,1,"['Benefit Description', 'You Pay', 'Note: We state whether or not the calendar year deductible applies for each benefit listed in this section.', 'Covered Medication and Supplies', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,93,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,93,"FEP Blue Focus
 Benefit Description You Pay
 Covered Medication and Supplies (cont.) FEP Blue Focus
 • Benefits for these medications listed above are subject to the dispensing Preferred retail pharmacy: Nothing (no deductible)
@@ -4223,7 +4223,7 @@ medications.
 Covered Medication and Supplies - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 91 FEP Blue Focus Section 5(f)
 FEP® Blue Focus",3323,1,"['Benefit Description', 'You Pay', 'Covered Medication and Supplies (cont.)', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,94,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,94,"FEP Blue Focus
 Benefit Description You Pay
 Covered Medication and Supplies (cont.) FEP Blue Focus
 The following medications are covered through this program: See previous page
@@ -4269,7 +4269,7 @@ cessation medications.
 Covered Medication and Supplies - continued on next page
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 92 FEP Blue Focus Section 5(f)
 FEP® Blue Focus",2303,1,"['Benefit Description', 'You Pay', 'Covered Medication and Supplies (cont.)', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,95,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,95,"FEP Blue Focus
 Benefit Description You Pay
 Covered Medication and Supplies (cont.) FEP Blue Focus
 • Medical foods administered orally are not covered if not obtained at a All charges
@@ -4313,7 +4313,7 @@ related to services for ongoing surgical or hormonal treatment for
 diagnosed gender dysphoria.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 93 FEP Blue Focus Section 5(f)
 FEP® Blue Focus",2487,1,"['Benefit Description', 'You Pay', 'Covered Medication and Supplies (cont.)', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,96,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,96,"FEP Blue Focus
 Benefit Description You Pay
 Drugs From Other Sources FEP Blue Focus
 Covered prescription drugs and supplies not obtained at a retail pharmacy or Preferred professional providers and facilities:
@@ -4349,7 +4349,7 @@ pay all charges
 (hospital or ambulatory surgical center).
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 94 FEP Blue Focus Section 5(f)
 FEP® Blue Focus",2075,1,"['Benefit Description', 'You Pay', 'Drugs From Other Sources', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,97,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,97,"FEP Blue Focus
 Section 5(g). Dental Benefits
 Important things you should keep in mind about these benefits:
 • Please remember that all benefits are subject to the definitions, limitations, and exclusions in this brochure
@@ -4406,7 +4406,7 @@ amount.
 to be eligible for benefits.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 95 FEP Blue Focus Section 5(g)
 FEP® Blue Focus",3747,2,"['Important things you should keep in mind about these benefits:\n• Please remember that all benefits are subject to the definitions, limitations, and exclusions in this brochure\nand are payable only when we determine they are medically necessary.\n• If you are enrolled in a Federal Employees Dental/Vision Insurance Program (FEDVIP) Dental Plan, your\nFEHB Plan will be the primary payor for any covered services and your FEDVIP Plan will be secondary to\nyour FEHB Plan. See Section 9, Coordinating Benefits with Medicare and Other Coverage, for additional\ninformation.\n• Be sure to read Section 4, Your Costs for Covered Services, for valuable information about how cost-sharing\nworks. Also, read Section 9 for information about how we pay if you have other coverage, or if you are age\n65 or over.\n• The calendar year deductible is $750 per person ($1,500 per Self Plus One or Self and Family\nenrollment). We state whether or not the calendar year deductible applies for each benefit listed in this\nsection.\n• You must use Preferred providers in order to receive accidental dental injury benefits for treatment\nafter 72 hours of the accident. Covered services provided more than 72 hours after an accident are subject to\nthe deductible and coinsurance.', 'Benefits Description', 'You Pay', 'Note: We state whether or not the calendar year deductible applies for each benefit listed in this section.', 'Accidental Injury Benefit', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,98,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,98,"FEP Blue Focus
 Benefits Description You Pay
 Inpatient and Outpatient Facility Care FEP Blue Focus
 We cover inpatient and outpatient hospital care, as well as anesthesia See Section 5(c) for inpatient and outpatient
@@ -4418,7 +4418,7 @@ procedure itself is not covered).
 Not covered: Routine dental care All charges
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 96 FEP Blue Focus Section 5(g)
 FEP® Blue Focus",650,1,"['Benefits Description', 'You Pay', 'Inpatient and Outpatient Facility Care', 'FEP Blue Focus']"
-FEP_Blue_Focus_2026,99,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,99,"FEP Blue Focus
 Section 5(h). Wellness and Other Special Features
 Special Feature Description
 Health Tools Stay connected to your health and get the answers you need when you need them by using Health
@@ -4461,7 +4461,7 @@ Management Program high blood pressure) access to a free blood pressure monitor 
 healthier choices to reduce the potential for complications from cardiac disease.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 97 FEP Blue Focus Section 5(h)
 FEP® Blue Focus",3409,1,"['Special Feature', 'Description', 'Health Tools', 'Stay connected to your health and get the answers you need when you need them by using Health\nTools 24 hours a day, 365 days a year. Go to www.fepblue.org or call 888-258-3432 toll-free to\ncheck out these valuable easy-to-use services:\n• Talk directly with a Registered Nurse any time of the day or night via phone, secure email, or\nlive chat. Ask questions and get medical advice. Please keep in mind that benefits for any\nhealthcare services you may seek after using Health Tools are subject to the terms of your\ncoverage under this Plan.\n• Personal Health Record – Access your secure online personal health record for information\nsuch as the medications you’re taking, recent test results, and medical appointments. Update,\nstore, and track health-related information at any time.\n• Blue Health Assessment – An online health and lifestyle questionnaire (see below).\n• Daily Habits – Manage your health proactively by setting and managing health goals, create a\nplan of care, track your progress, and pursue healthy activities. Daily Habits offers members a\ncombination of guidance, support, and resources.\n• Health Topics and WebMD Videos offer an extensive variety of educational tools using\nvideos, recorded messages, and colorful online materials that provide up-to-date information\nabout a wide range of health-related topics.', 'Services for the Deaf and\nHearing Impaired', 'All Blue Cross and Blue Shield Plans provide TTY access for the hearing impaired to access\ninformation and receive answers to their questions.', 'Web Accessibility for the\nVisually Impaired', 'Our website, www.fepblue.org, adheres to the most current Section 508 Web accessibility standards\nto ensure that visitors with visual impairments can use the site with ease.', 'Travel Benefit/Services\nOverseas', 'Please refer to Section 5(i) for benefit and claims information for care you receive outside the\nUnited States, Puerto Rico, and the U.S. Virgin Islands.', 'Healthy Families', 'Our Healthy Families suite of resources is for families with children and teens, ages 2 to 19.\nHealthy Families provides activities and tools to help parents teach their children about weight\nmanagement, nutrition, physical activity, and personal well-being. For more information, go to\nwww.fepblue.org.', 'Blue Health Assessment', 'The Blue Health Assessment (BHA) questionnaire is an easy and engaging online health\nevaluation program which can be completed in 10-20 minutes. Your BHA answers are evaluated to\ncreate a unique health action plan. Based on the results of your BHA, you can select personalized\ngoals, receive supportive advice, and easily track your progress through our online coaching tool,\nDaily Habits.\nVisit our website, www.fepblue.org, for more information and to complete the BHA so you can\nreceive your individualized results and begin working toward achieving your goals. You may also\nrequest a printed BHA by calling 888-258-3432 toll-free.', 'Hypertension\nManagement Program', 'The Hypertension Management Program gives members with hypertension (otherwise known as\nhigh blood pressure) access to a free blood pressure monitor (BPM) to encourage members to make\nhealthier choices to reduce the potential for complications from cardiac disease.']"
-FEP_Blue_Focus_2026,100,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,100,"FEP Blue Focus
 To qualify, you must be the contract holder or covered spouse (age 18 and over) and have at least
 one medical claim processed during the past 12 months reporting a diagnosis of hypertension or
 high blood pressure. If you qualify, you will receive a letter and a notice will be sent to your
@@ -4515,7 +4515,7 @@ been diagnosed with any of these conditions, we may send you information about t
 available to you in your area.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 98 FEP Blue Focus Section 5(h)
 FEP® Blue Focus",4437,1,"['To qualify, you must be the contract holder or covered spouse (age 18 and over) and have at least\none medical claim processed during the past 12 months reporting a diagnosis of hypertension or\nhigh blood pressure. If you qualify, you will receive a letter and a notice will be sent to your\nMyBlue account (visit www.fepblue.org to set up your account) with instructions on how you may\nreceive a blood pressure monitor from us at no cost if your healthcare provider’s treatment plan\nincludes home blood pressure monitoring for your diagnosis. You may receive this benefit once\nevery two years. If you have questions, please call the customer service phone number listed on the\nback of your ID card.\nThe BPM must be received through this program. Benefits are not available for BPMs for members\nwho do not meet the criteria or for those who obtain a BPM outside of this program. For more\ninformation, call us at the phone number on the back of your ID card.', 'MyBlue® Customer\neService', 'Visit MyBlue Customer eService at www.fepblue.org/myblue or use the fepblue mobile app to\ncheck the status of your claims, change your address of record, request claim forms, request an ID\ncard, and track how you use your benefits. Additional features include:\n• Online EOBs – You will automatically be enrolled in online EOBs. This will allow you to\nview, download, and print your explanation of benefits (EOB) forms. Simply log on to MyBlue\nvia www.fepblue.org/myblue and click on “View My Claims”; from there you can search claims\nand select the “EOB” link next to each claim to access your EOB. Though your EOBs typically\nwill be available online, there are some instances where you will receive a paper EOB and a\nform to complete. You can also access EOBs via the fepblue mobile app. Simply link to\nMyBlue, and click on “Claims.”\n• Opt in to Paper EOBs – If you wish to receive paper EOBs, you may log on to MyBlue home\npage, click on “Member Preferences” from the navigation bar and opt in by selecting “paper\nEOBs.”\n• Personalized Messages – Our EOBs provide a wide range of messages just for you and your\nfamily, ranging from preventive care opportunities to enhancements to our online services.\n• Financial Dashboard – Log in to MyBlue to access important information in real time,\nincluding deductibles, out-of-pocket costs, remaining covered provider visits, medical claims,\nand pharmacy claims. You also can review your year-to-date summary of completed claims, and\npharmacy spending throughout the year.', 'National Doctor &\nHospital Finder', 'Visit www.fepblue.org/provider to access our National Doctor & Hospital Finder and other\nnationwide listings of Preferred providers.', 'Care Management\nPrograms', 'If you have a rare or chronic disease or have complex healthcare needs, the Service Benefit Plan\noffers two types of Care Management Programs that provide assistance with the coordination of\nyour care, provide member education and clinical support.\n• Case Management provides members who have acute or chronic complex healthcare needs with\nthe services and assistance of a licensed healthcare professional with a nationally recognized\ncase management certification. Case managers may be a registered nurse, licensed social\nworker, or other licensed healthcare professional practicing within the scope of their license,\nwho may work with you and your providers to assess your healthcare needs, coordinate needed\ncare and available resources, evaluate the outcomes of your care, and support and monitor the\nprogress of the member’s treatment plan and healthcare needs. Some members may receive\nguidance and clinical support for an acute healthcare need while others may benefit from a short\nterm case management enrollment. Enrollment in case management requires your consent.\nMembers in case management are asked to provide verbal consent prior to enrollment in case\nmanagement and must provide written consent for case management.\n• Disease Management supports members who have diabetes, asthma, chronic obstructive\npulmonary disease (COPD), coronary artery disease, or congestive heart failure by helping them\nadopt effective self-care habits to improve the self-management of their condition. If you have\nbeen diagnosed with any of these conditions, we may send you information about the programs\navailable to you in your area.']"
-FEP_Blue_Focus_2026,101,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,101,"FEP Blue Focus
 If you have any questions regarding these programs, including if you are eligible for enrollment and
 assistance with enrollment, please contact us at the customer service phone number on the back of
 your ID card.
@@ -4569,7 +4569,7 @@ substance use disorder, and nutritional counseling.
 Note: This benefit is available only through the contracted telehealth provider network.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 99 FEP Blue Focus Section 5(h)
 FEP® Blue Focus",4466,1,"['If you have any questions regarding these programs, including if you are eligible for enrollment and\nassistance with enrollment, please contact us at the customer service phone number on the back of\nyour ID card.', 'Flexible Benefits Option', 'Under the Blue Cross and Blue Shield Service Benefit Plan’s FEP Blue Focus, our Case\nManagement process may include a flexible benefits option. This option allows professional case\nmanagers at Local Plans to assist members with certain complex and/or chronic health issues by\ncoordinating complicated treatment plans and other types of complex patient care plans. Through\nthe flexible benefits option, case managers will review the member’s healthcare needs and may at\nour sole discretion, identify a less costly alternative treatment plan for the member. The member (or\ntheir healthcare proxy) and provider(s) must cooperate in the process. Case Management Program\nenrollment is required for eligibility. Prior to the starting date of the alternative treatment plan,\nmembers who are eligible to receive services through the flexible benefits option are required to\nsign and return a written consent for case management and the alternative plan. If you and your\nprovider agree with the plan, alternative benefits will begin immediately and you will be asked to\nsign an alternative benefits agreement that includes the terms listed below, in addition to any\nother terms specified in the agreement. We must receive the consent for case management and\nthe alternative benefits agreement signed by the member/healthcare proxy before you receive\nany services included in the alternative benefits agreement.\n• Alternative benefits will be made available for a limited period of time and are subject to our\nongoing review. You must cooperate with and participate in the review process. Your provider\n(s) must submit the information necessary for our reviews. You and/or your healthcare proxy\nmust participate in care conferences and caregiver training as requested by your provider(s) or\nby us.\n• We may revoke the alternative benefits agreement immediately at any time, if we discover we\nwere misled by the information given to us by you, your provider, or anyone else involved in\nyour care, or that you are not meeting the terms of the agreement.\n• If we approve alternative benefits, we do not guarantee that they will be extended beyond the\nlimited time period and/or scope of the alternative benefits agreement or that they will be\napproved in the future.\n• The decision to offer alternative benefits is solely ours, and unless otherwise specified in the\nalternative benefits agreement, we may at our sole discretion, withdraw those benefits at any\ntime and resume regular contract benefits.\n• Our decision to offer or withdraw alternative benefits is not subject to OPM review under the\ndisputed claims process.\nIf you sign the alternative benefits agreement, we will provide the agreed-upon alternative\nbenefits for the stated time period, unless we are misled by the information given to us or\ncircumstances change. Benefits as stated in this brochure will apply to all services and dates of care\nnot included in the alternative benefits agreement. You or your provider may request an extension\nof the time period initially approved for alternative benefits, no later than five business days prior to\nthe end of the alternative benefits agreement. We will review the request, including the services\nproposed as an alternative and the cost of those services, but benefits as stated in this brochure will\napply if we do not approve your request.\nNote: If we deny a request for precertification or prior approval of regular contract benefits, as\nstated in this brochure, or if we deny regular contract benefits for services you have already\nreceived, you may dispute our denial of regular contract benefits under the OPM disputed claims\nprocess (see Section 8).', 'Telehealth Services', 'Go to www.fepblue.org/telehealth or call 855-636-1579, TTY: 711, toll free to access on-demand,\naffordable, high-quality care for adults and children experiencing non-emergency medical issues,\nincluding treatment of minor acute conditions, dermatology care, counseling for mental health and\nsubstance use disorder, and nutritional counseling.\nNote: This benefit is available only through the contracted telehealth provider network.']"
-FEP_Blue_Focus_2026,102,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,102,"FEP Blue Focus
 Special Feature Description
 Routine Annual Physical The Routine Annual Physical Incentive Program rewards members for receiving a routine annual
 Incentive Program physical exam. This incentive enables you to receive, at no cost, an incentive reward from our
@@ -4605,7 +4605,7 @@ and a dashboard for daily progress tracking via the mobile app. Member support i
 conditions/weight.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 100 FEP Blue Focus Section 5(h)
 FEP® Blue Focus",3072,1,"['Special Feature', 'Description', 'Routine Annual Physical\nIncentive Program', 'The Routine Annual Physical Incentive Program rewards members for receiving a routine annual\nphysical exam. This incentive enables you to receive, at no cost, an incentive reward from our\n“shopping mall.” To qualify, you must be the contract holder or covered spouse (over age 18),\nreceive an annual routine physical exam from a Preferred provider, and have an active MyBlue\naccount (visit www.fepblue.org to set up your account). Qualifying members will receive\nnotification through their MyBlue account with instructions on how to redeem this incentive.\nAdditional details are available on our website, www.fepblue.org/fepbluefocus. FEP Blue Focus\nmembers may also call 800-411-BLUE (2583) for inquiries related to this incentive program.\nNote: In order to receive your incentive, you must have received your annual physical no later than\nDecember 31, 2026, and you must request your incentive before December 31, 2027. Please allow\nample time to complete all activities by this date. If these activities are not completed by the dates\nlisted above, the incentive will be forfeited. Product availability and shipping limitations may\napply. International shipping is not available.', 'The fepblue Mobile\nApplication', 'Blue Cross and Blue Shield’s fepblue mobile application is available for download for both iOS and\nAndroid mobile phones. The application provides members with 24/7 access to helpful features,\ntools and information related to Blue Cross and Blue Shield Service Benefit Plan’s FEP Blue Focus\nbenefits. Members can log in with their MyBlue® username and password to access personal\nhealthcare information such as benefits, out-of-pocket costs, deductibles (if applicable) and\nphysician visit limits. They can also view claims and approval status, view/share Explanation of\nBenefits (EOBs), view/share member ID cards, locate Preferred providers, and connect with our\ntelehealth services.', 'Weight Loss\nManagement Program', ""The Weight Management Program is designed to assist members in managing their weight. This\nprogram positively influences members' cardiometabolic health, including diet, activity, sleep, and\nstress management. All members and dependents aged 13 and older with a qualifying BMI are\neligible for participation. Participants will receive a complimentary cellular-enabled weight scale,\nwhich will be delivered directly to them. Upon receipt, members should activate the scale by\ncompleting their first weigh-in and synchronizing it with their smart device.\nThe program includes personalized health coaching, provider access, medication management, and\non-demand support. Additionally, members have unlimited access to goal setting, action planning,\nand a dashboard for daily progress tracking via the mobile app. Member support is available\n24/7/365. For further details, please visit www.fepblue.org/manage-your-health/managing-specific-\nconditions/weight.""]"
-FEP_Blue_Focus_2026,103,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,103,"FEP Blue Focus
 Section 5(i). Services, Drugs, and Supplies Provided Overseas
 If you travel or live outside the United States, Puerto Rico, and the U.S. Virgin Islands, you are still entitled to the benefits described
 in this brochure. Unless otherwise noted in this Section, the same definitions, limitations, and exclusions also apply. Costs associated
@@ -4655,7 +4655,7 @@ with transportation to other than the closest hospital equipped to treat your co
 any coinsurance and/or copayments. You must also pay any charges for noncovered services.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 101 FEP Blue Focus Section 5(i)
 FEP® Blue Focus",5129,0,
-FEP_Blue_Focus_2026,104,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,104,"FEP Blue Focus
 Pharmacy For prescription drugs purchased at overseas pharmacies, we provide benefits at Preferred benefit levels,
 benefits using the billed charge as our Plan allowance. You pay the applicable copayment or coinsurance. The
 calendar year deductible is not applicable when purchasing drugs at pharmacies located overseas. See
@@ -4707,7 +4707,7 @@ Program as long as all of the following conditions are met:
 • Your address includes a U.S. ZIP code (such as with APO and FPO addresses and in U.S. territories),
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 102 FEP Blue Focus Section 5(i)
 FEP® Blue Focus",4581,0,
-FEP_Blue_Focus_2026,105,"FEP Blue Focus
+FEHB-Blue-Focus,FEHB,Blue-Focus,105,"FEP Blue Focus
 • The prescribing physician is licensed in the United States, Puerto Rico, or the U.S. Virgin Islands, and
 has a National Provider Identifier (NPI), and
 • Delivery of the prescription is permitted by law and is in accordance with the manufacturer’s guidelines.
@@ -4722,7 +4722,7 @@ prescription drugs from a local overseas pharmacy and submit a claim to us for r
 001-480-614-7674 or filing it via our website at www.fepblue.org/myblue.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 103 FEP Blue Focus Section 5(i)
 FEP® Blue Focus",1159,0,
-FEP_Blue_Focus_2026,106,"Non-FEHB Benefits Available to Plan Members
+FEHB-Blue-Focus,FEHB,Blue-Focus,106,"Non-FEHB Benefits Available to Plan Members
 These benefits are not part of the FEHB contract or premium, and you cannot file an FEHB dispute regarding these benefits. Fees paid
 for these services do not count toward FEHB deductibles or catastrophic protection out-of-pocket maximums. In addition, these
 services are not eligible for benefits under the FEHB Program. Please do not file a claim for these services. These programs and
@@ -4758,7 +4758,7 @@ FDA). To use the program, simply present a valid prescription and your ID card a
 ask you for payment in full at the negotiated discount rate. For more information, visit www.fepblue.org/ddp or call 800-624-5060.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 104 Non-FEHB Benefits Available to Plan Members
 FEP® Blue Focus",3920,0,
-FEP_Blue_Focus_2026,107,"Section 6. General Exclusions – Services, Drugs, and Supplies We Do Not Cover
+FEHB-Blue-Focus,FEHB,Blue-Focus,107,"Section 6. General Exclusions – Services, Drugs, and Supplies We Do Not Cover
 The exclusions in this Section apply to all benefits. There may be other exclusions and limitations listed in Section 5 of this brochure.
 Although we may list a specific service as a benefit, we will not cover it unless we determine it is medically necessary to
 prevent, diagnose, or treat your illness, disease, injury, or condition. For information on obtaining prior approval for specific
@@ -4803,7 +4803,7 @@ in Section 5(b).
 • Orthodontic care for malposition of the bones of the jaw or for temporomandibular joint (TMJ) syndrome.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 105 Section 6
 FEP® Blue Focus",4296,0,
-FEP_Blue_Focus_2026,108,"• Services of standby physicians.
+FEHB-Blue-Focus,FEHB,Blue-Focus,108,"• Services of standby physicians.
 • Self-care or self-help training.
 • Custodial or long-term care (see Definitions).
 • Personal comfort items such as beauty and barber services, radio, television, or phone.
@@ -4841,7 +4841,7 @@ services), other than mid-treatment exceptions, see Section 3. How You Get Care.
 • Any benefits or services required solely for your employment are not covered by this plan.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 106 Section 6
 FEP® Blue Focus",3397,0,
-FEP_Blue_Focus_2026,109,"Section 7. Filing a Claim for Covered Services
+FEHB-Blue-Focus,FEHB,Blue-Focus,109,"Section 7. Filing a Claim for Covered Services
 This Section primarily deals with post-service claims (claims for services, drugs, or supplies you have already received).
 See Section 3 for information on pre-service claims procedures (services, drugs, or supplies requiring precertification or prior
 approval), including urgent care claims procedures.
@@ -4887,7 +4887,7 @@ we will notify you before the expiration of the original 30-day period. Our noti
 circumstances underlying the request for the extension and the date when a decision is expected.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 107 Section 7
 FEP® Blue Focus",3591,0,
-FEP_Blue_Focus_2026,110,"If we need an extension because we have not received necessary information (e.g., medical records) from
+FEHB-Blue-Focus,FEHB,Blue-Focus,110,"If we need an extension because we have not received necessary information (e.g., medical records) from
 you, our notice will describe the specific information required and we will allow you up to 60 days from
 the receipt of the notice to provide the information.
 If you do not agree with our initial decision, you may ask us to review it by following the disputed claims
@@ -4933,7 +4933,7 @@ more information for your claim if you do not respond. Our deadline for respondi
 all of the additional information needed to process your claim.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 108 Section 7
 FEP® Blue Focus",3962,0,
-FEP_Blue_Focus_2026,111,"Authorized You may designate an authorized representative to act on your behalf for filing a claim or to appeal claims
+FEHB-Blue-Focus,FEHB,Blue-Focus,111,"Authorized You may designate an authorized representative to act on your behalf for filing a claim or to appeal claims
 representative decisions to us. For urgent care claims, a healthcare professional with knowledge of your medical
 condition will be permitted to act as your authorized representative without your express consent. For the
 purposes of this Section, we are also referring to your authorized representative when we refer to you.
@@ -4953,7 +4953,7 @@ availability, upon request, of the diagnosis code and its corresponding meaning,
 treatment code and its corresponding meaning.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 109 Section 7
 FEP® Blue Focus",1834,0,
-FEP_Blue_Focus_2026,112,"Section 8. The Disputed Claims Process
+FEHB-Blue-Focus,FEHB,Blue-Focus,112,"Section 8. The Disputed Claims Process
 Please follow this Federal Employees Health Benefits Program disputed claims process if you disagree with our decision on your
 post-service claim (a claim where services, drugs, or supplies have already been provided). In Section 3, If you disagree with our pre-
 service claim decision, we describe the process you need to follow if you have a claim for services, drugs, or supplies that must have
@@ -4999,7 +4999,7 @@ a) Pay the claim or
 b) Write to you and maintain our denial or
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 110 Section 8
 FEP® Blue Focus",4304,0,
-FEP_Blue_Focus_2026,113,"c) Ask you or your provider for more information.
+FEHB-Blue-Focus,FEHB,Blue-Focus,113,"c) Ask you or your provider for more information.
 You or your provider must send the information so that we receive it within 60 days of our request. We will then decide
 within 30 more days.
 If we do not receive the information within 60 days, we will decide within 30 days of the date the information was due. We
@@ -5043,7 +5043,7 @@ lawsuit, benefits, and payment of benefits. The Federal court will base its revi
 OPM decided to uphold or overturn our decision. You may recover only the amount of benefits in dispute.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 111 Section 8
 FEP® Blue Focus",3737,0,
-FEP_Blue_Focus_2026,114,"Note: If you have a serious or life-threatening condition (one that may cause permanent loss of bodily functions or death if not treated
+FEHB-Blue-Focus,FEHB,Blue-Focus,114,"Note: If you have a serious or life-threatening condition (one that may cause permanent loss of bodily functions or death if not treated
 as soon as possible), and you did not indicate that your claim was a claim for urgent care, then call us at the customer service phone
 number on the back of your ID card. We will expedite our review (if we have not yet responded to your claim); or we will inform
 OPM so they can quickly review your claim on appeal. You may call OPM’s FEHB 1 at 202-606-0727 between 8 a.m. and 5 p.m.
@@ -5054,7 +5054,7 @@ employee, your retirement system if you are an annuitant, or the Office of Worke
 Workers’ Compensation benefits.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 112 Section 8
 FEP® Blue Focus",1037,0,
-FEP_Blue_Focus_2026,115,"Section 9. Coordinating Benefits With Medicare and Other Coverage
+FEHB-Blue-Focus,FEHB,Blue-Focus,115,"Section 9. Coordinating Benefits With Medicare and Other Coverage
 When you have other You must tell us if you or a covered family member has coverage under any other group health
 health coverage plan or has automobile insurance that pays healthcare expenses without regard to fault. This is
 called “double coverage.”
@@ -5099,7 +5099,7 @@ we pay first. See your TRICARE or CHAMPVA Health Benefits Advisor if you have qu
 these programs.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 113 Section 9
 FEP® Blue Focus",3603,0,
-FEP_Blue_Focus_2026,116,"Suspended FEHB coverage to enroll in TRICARE or CHAMPVA: If you are an annuitant or
+FEHB-Blue-Focus,FEHB,Blue-Focus,116,"Suspended FEHB coverage to enroll in TRICARE or CHAMPVA: If you are an annuitant or
 former spouse, you can suspend your FEHB coverage to enroll in one of these programs, eliminating
 your FEHB premium. (OPM does not contribute to any applicable plan premiums.) For information
 on suspending your FEHB enrollment, contact your retirement or employing office. If you later want
@@ -5148,7 +5148,7 @@ representatives” include, if applicable, your heirs, administrators, legal rep
 you are a minor), successors, or assignees. This is our right of recovery.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 114 Section 9
 FEP® Blue Focus",3965,0,
-FEP_Blue_Focus_2026,117,"• We are entitled under our right of recovery to be reimbursed for our benefit payments even if you
+FEHB-Blue-Focus,FEHB,Blue-Focus,117,"• We are entitled under our right of recovery to be reimbursed for our benefit payments even if you
 are not “made whole” for all of your damages in the recoveries that you receive. Our right of
 recovery is not subject to reduction for attorney’s fees and costs under the “common fund” or any
 other doctrine.
@@ -5198,7 +5198,7 @@ Insurance Plan BENEFEDS.gov or by phone at 1-877-888-3337, (TTY 1-877-889-5680),
 FEHB information may reduce your out-of-pocket cost.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 115 Section 9
 FEP® Blue Focus",4007,0,
-FEP_Blue_Focus_2026,118,"Clinical trials If you are a participant in an approved clinical trial, this health Plan will provide benefits for covered
+FEHB-Blue-Focus,FEHB,Blue-Focus,118,"Clinical trials If you are a participant in an approved clinical trial, this health Plan will provide benefits for covered
 related care as follows, if it is not provided by the clinical trial:
 • Routine care costs – costs for medically necessary services such as doctor visits, lab tests, X-rays
 and scans, and hospitalizations related to treating the patient’s condition, whether the patient is in a
@@ -5246,7 +5246,7 @@ We waive some costs if the Original Medicare Plan is your primary payor – We w
 out-of-pocket costs after you satisfy the calendar year deductible.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 116 Section 9
 FEP® Blue Focus",4322,0,
-FEP_Blue_Focus_2026,119,"You will pay what Medicare says you owe for services subject to the calendar year deductible up to
+FEHB-Blue-Focus,FEHB,Blue-Focus,119,"You will pay what Medicare says you owe for services subject to the calendar year deductible up to
 $750 per person under a self only or self + one contract, or a combined $1,500 under a self and family
 contract. Once you have satisfied the deductible, we will provide benefits as follows:
 When Medicare Part A is primary –
@@ -5294,7 +5294,7 @@ the next Open Season unless you involuntarily lose coverage or move out of the M
 plan’s service area.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 117 Section 9
 FEP® Blue Focus",4063,0,
-FEP_Blue_Focus_2026,120,"• Medicare When we are the primary payor, we process the claim first. If you enroll in Medicare Part D and we
+FEHB-Blue-Focus,FEHB,Blue-Focus,120,"• Medicare When we are the primary payor, we process the claim first. If you enroll in Medicare Part D and we
 prescription drug are the secondary payor, we will review claims for your prescription drug costs that are not covered by
 coverage (Part D) Medicare Part D and consider them for payment under the FEHB plan.
 • Medicare This health plan does not coordinate its prescription drug benefits with Medicare Part B.
@@ -5302,7 +5302,7 @@ prescription drug
 coverage (Part B)
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 118 Section 9
 FEP® Blue Focus",538,0,
-FEP_Blue_Focus_2026,121,"Medicare always makes the final determination as to whether they are the primary payor. The following chart illustrates whether
+FEHB-Blue-Focus,FEHB,Blue-Focus,121,"Medicare always makes the final determination as to whether they are the primary payor. The following chart illustrates whether
 Medicare or this Plan should be the primary payor for you according to your employment status and other factors determined by
 Medicare. It is critical that you tell us if you or a covered family member has Medicare coverage so we can administer these
 requirements correctly. (Having coverage under more than two health plans may change the order of benefits determined on
@@ -5354,7 +5354,7 @@ D. When you are covered under the FEHB Spouse Equity provision as a former spous
 *Workers' Compensation is primary for claims related to your condition under Workers' Compensation.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 119 Section 9
 FEP® Blue Focus",3363,1,"['Primary Payor Chart', 'A. When you - or your covered spouse - are age 65 or over and have Medicare and you...', 'The primary payor for the\nindividual with Medicare is...', 'Medicare', 'This Plan', '1) Have FEHB coverage on your own as an active employee', '2) Have FEHB coverage on your own as an annuitant or through your spouse who is an\nannuitant', '3) Have FEHB through your spouse who is an active employee', '4) Are a reemployed annuitant with the Federal government and your position is excluded from\nthe FEHB (your employing office will know if this is the case) and you are not covered under\nFEHB through your spouse under #3 above', '5) Are a reemployed annuitant with the Federal government and your position is not excluded\nfrom the FEHB (your employing office will know if this is the case) and...', '• You have FEHB coverage on your own or through your spouse who is also an active\nemployee', '• You have FEHB coverage through your spouse who is an annuitant', '6) Are a Federal judge who retired under title 28, U.S.C., or a Tax Court judge who retired\nunder Section 7447 of title 26, U.S.C. (or if your covered spouse is this type of judge) and\nyou are not covered under FEHB through your spouse under #3 above', '7) Are enrolled in Part B only, regardless of your employment status', 'for Part B\nservices', 'for other\nservices', ""8) Are a Federal employee receiving Workers' Compensation"", '*', '9) Are a Federal employee receiving disability benefits for six months or more', 'B. When you or a covered family member...', '1) Have Medicare solely based on end stage renal disease (ESRD) and...', '• It is within the first 30 months of eligibility for or entitlement to Medicare due to ESRD\n(30-month coordination period)', '• It is beyond the 30-month coordination period and you or a family member are still entitled\nto Medicare due to ESRD', '2) Become eligible for Medicare due to ESRD while already a Medicare beneficiary and...', '• This Plan was the primary payor before eligibility due to ESRD (for 30 month\ncoordination period)', '• Medicare was the primary payor before eligibility due to ESRD', '3) Have Temporary Continuation of Coverage (TCC) and...', '• Medicare based on age and disability', '• Medicare based on ESRD (for the 30 month coordination period)', '• Medicare based on ESRD (after the 30 month coordination period)', 'C. When either you or a covered family member are eligible for Medicare solely due to\ndisability and you...', '1) Have FEHB coverage on your own as an active employee or through a family member who\nis an active employee', '2) Have FEHB coverage on your own as an annuitant or through a family member who is an\nannuitant', 'D. When you are covered under the FEHB Spouse Equity provision as a former spouse']"
-FEP_Blue_Focus_2026,122,"When you are age 65 or over and do not have Medicare
+FEHB-Blue-Focus,FEHB,Blue-Focus,122,"When you are age 65 or over and do not have Medicare
 Under the FEHB law, we must limit our payments for inpatient hospital care and physician care to those payments you would be
 entitled to if you had Medicare. Your physician and hospital must follow Medicare rules and cannot bill you for more than they could
 bill you if you had Medicare. You and the FEHB benefit from these payment limits. Outpatient hospital care and non-physician-based
@@ -5394,7 +5394,7 @@ hospital tries to collect more than allowed by law, ask the physician or hospita
 allowed, ask for a refund. If you need further assistance, call us.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 120 Section 9
 FEP® Blue Focus",3375,0,
-FEP_Blue_Focus_2026,123,"Physicians Who Opt- A physician may have opted-out of Medicare and may or may not ask you to sign a private contract
+FEHB-Blue-Focus,FEHB,Blue-Focus,123,"Physicians Who Opt- A physician may have opted-out of Medicare and may or may not ask you to sign a private contract
 Out of Medicare agreeing that you can be billed directly for services ordinarily covered by Original Medicare. This is
 different than a Non-participating doctor, and we recommend you ask your physician if they have
 opted-out of Medicare. Should you visit an opt-out physician, the physician will not be limited to 115%
@@ -5426,7 +5426,7 @@ to reduce the charges. If the physician does not, report the physician to the Me
 you the MSN form. Call us if you need further assistance.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 121 Section 9
 FEP® Blue Focus",2566,0,
-FEP_Blue_Focus_2026,124,"Please review the following examples illustrating your cost-share liabilities when Medicare is your primary payor and your provider
+FEHB-Blue-Focus,FEHB,Blue-Focus,124,"Please review the following examples illustrating your cost-share liabilities when Medicare is your primary payor and your provider
 is in our network and participates with Medicare compared to what you pay without Medicare. Please do not rely on this chart alone
 but read all information in this section of the brochure. You can find more information about how our Plan coordinates with Medicare
 in our Medicare and You Guide for Federal Employees available online at www.fepblue.org.
@@ -5456,7 +5456,7 @@ FEP Blue Focus You Pay Without Medicare Parts A & B: N/A
 FEP Blue Focus You Pay With Medicare Parts A & B: N/A
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 122 Section 9
 FEP® Blue Focus",1916,0,
-FEP_Blue_Focus_2026,125,"Section 10. Definitions of Terms We Use in This Brochure
+FEHB-Blue-Focus,FEHB,Blue-Focus,125,"Section 10. Definitions of Terms We Use in This Brochure
 Accidental injury An injury caused by an external force or element such as a blow or fall that requires immediate medical
 attention, including animal bites and poisonings. Note: Injuries to the teeth while eating are not
 considered accidental injuries. Dental care for accidental injury is limited to dental treatment necessary
@@ -5501,7 +5501,7 @@ effective date of their enrollment and ends on December 31 of the same year.
 Carrier The Blue Cross and Blue Shield Association, on behalf of the local Blue Cross and Blue Shield Plans.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 123 Section 10
 FEP® Blue Focus",4034,0,
-FEP_Blue_Focus_2026,126,"Clinical trials An approved clinical trial includes a phase I, phase II, phase III, or phase IV clinical trial that is
+FEHB-Blue-Focus,FEHB,Blue-Focus,126,"Clinical trials An approved clinical trial includes a phase I, phase II, phase III, or phase IV clinical trial that is
 conducted in relation to the prevention, detection, or treatment of cancer or other life-threatening
 disease or condition, and is either Federally funded; conducted under an investigational new drug
 application reviewed by the U.S. Food and Drug Administration (U.S. FDA); or is a drug trial that is
@@ -5550,7 +5550,7 @@ equipment
 1. Prescribed by your physician (i.e., the physician who is treating your illness or injury);
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 124 Section 10
 FEP® Blue Focus",3782,0,
-FEP_Blue_Focus_2026,127,"2. Medically necessary;
+FEHB-Blue-Focus,FEHB,Blue-Focus,127,"2. Medically necessary;
 3. Primarily and customarily used only for a medical purpose;
 4. Generally useful only to a person with an illness or injury;
 5. Designed for prolonged use; and
@@ -5597,7 +5597,7 @@ professional health services consistent with state law. See Section 3 for inform
 healthcare professionals are covered under this Plan.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 125 Section 10
 FEP® Blue Focus",3691,0,
-FEP_Blue_Focus_2026,128,"Health Risk A questionnaire designed to assess your overall health and identify potential health risks. Service
+FEHB-Blue-Focus,FEHB,Blue-Focus,128,"Health Risk A questionnaire designed to assess your overall health and identify potential health risks. Service
 Assessment (HRA) Benefit Plan members have access to the Blue Cross and Blue Shield HRA (called the “Blue Health
 Assessment”) which is supported by a computerized program that analyzes your health and lifestyle
 information and provides you with a personal and confidential health action plan that is protected by
@@ -5648,7 +5648,7 @@ on credible scientific evidence published in peer-reviewed medical literature ge
 the relevant medical community and physician specialty society recommendations.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 126 Section 10
 FEP® Blue Focus",4664,0,
-FEP_Blue_Focus_2026,129,"The fact that one of our covered physicians, hospitals, or other professional or facility providers
+FEHB-Blue-Focus,FEHB,Blue-Focus,129,"The fact that one of our covered physicians, hospitals, or other professional or facility providers
 has prescribed, recommended, or approved a service or supply does not, in itself, make it
 medically necessary or covered under this Plan.
 Minor acute Under the telehealth benefit, you have on-demand access to care for common, non-emergent conditions.
@@ -5699,7 +5699,7 @@ change. If our payment amount is decreased, we credit the amount of the decrease
 this Plan. If our payment amount is increased, we pay that cost on your behalf.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 127 Section 10
 FEP® Blue Focus",4647,0,
-FEP_Blue_Focus_2026,130,"• Non-participating providers (Non-preferred provider) – We have no agreements with these
+FEHB-Blue-Focus,FEHB,Blue-Focus,130,"• Non-participating providers (Non-preferred provider) – We have no agreements with these
 providers to limit what they can bill you for their services. This means that using Non-participating
 providers for exceptions listed in Section 3 could result in your having to pay significantly greater
 amounts for the services you receive. We determine our allowance as follows:
@@ -5757,7 +5757,7 @@ for the difference between the Non-participating Provider Allowance (NPA) and th
 be limited. See Section 4, Important Notice About Surprise Billing.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 128 Section 10
 FEP® Blue Focus",4952,0,
-FEP_Blue_Focus_2026,131,"Post-service claims Any claims that are not pre-service claims. In other words, post-service claims are those claims where
+FEHB-Blue-Focus,FEHB,Blue-Focus,131,"Post-service claims Any claims that are not pre-service claims. In other words, post-service claims are those claims where
 treatment has been performed and the claims have been sent to us in order to apply for benefits.
 Precertification The requirement to contact the local Blue Cross and Blue Shield Plan serving the area where the
 services will be performed before being admitted for inpatient care. Please refer to the precertification
@@ -5807,7 +5807,7 @@ restored with a crown, inlay, onlay, or porcelain restoration, or treated by end
 a sound natural tooth.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 129 Section 10
 FEP® Blue Focus",4638,0,
-FEP_Blue_Focus_2026,132,"Specialty drugs Pharmaceutical products that are included on the FEP Blue Focus Specialty Drug List that are typically
+FEHB-Blue-Focus,FEHB,Blue-Focus,132,"Specialty drugs Pharmaceutical products that are included on the FEP Blue Focus Specialty Drug List that are typically
 high in cost and have one or more of the following characteristics:
 • Injectable, infused, inhaled, or oral therapeutic agents, or products of biotechnology
 • Complex drug therapy for a chronic or complex condition, and/or high potential for drug adverse
@@ -5856,7 +5856,7 @@ may also prove that your claim is an urgent care claim by providing evidence tha
 knowledge of your medical condition has determined that your claim involves urgent care.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 130 Section 10
 FEP® Blue Focus",4263,0,
-FEP_Blue_Focus_2026,133,"Us/We/Our “Us,” “we,” and “our” refer to the Blue Cross and Blue Shield Service Benefit Plan, and the local Blue
+FEHB-Blue-Focus,FEHB,Blue-Focus,133,"Us/We/Our “Us,” “we,” and “our” refer to the Blue Cross and Blue Shield Service Benefit Plan, and the local Blue
 Cross and Blue Shield Plans that administer it.
 Wrap benefits FEP Blue Focus WRAP benefits are not subject to the deductible and have either a different copayment
 than the copayment applied under the CORE benefits (i.e., $25 for the combined 25 visits for physical
@@ -5868,7 +5868,7 @@ the Federal Employees Health Benefits Program and enrolled in the Plan) and each
 member.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 131 Section 10
 FEP® Blue Focus",887,0,
-FEP_Blue_Focus_2026,134,"Index
+FEHB-Blue-Focus,FEHB,Blue-Focus,134,"Index
 Do not rely only on this page; it is for your convenience and may not show all pages where the terms appear. This Index is not an
 official statement of benefits.
 Abortion ...........................................105-106 Colonoscopy ..................38-40, 56-57, 68-71 Family planning .........................................44
@@ -5928,7 +5928,7 @@ Cognitive rehabilitation ..................47, 68-72 Eyeglasses ................
 Coinsurance ................................................28 Facility providers ................................17-19 Newborn care ...........26, 36-37, 42-43, 66-68
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 132 Index
 FEP® Blue Focus",8902,0,
-FEP_Blue_Focus_2026,135,"No Surprises Act (NSA) .......................29-30 Preventive care Subrogation ...............................114-115, 130
+FEHB-Blue-Focus,FEHB,Blue-Focus,135,"No Surprises Act (NSA) .......................29-30 Preventive care Subrogation ...............................114-115, 130
 NON-CORE benefits ...............................127 Adult .......................................38-40, 129 Substance use disorder ..............17, 35, 80-83
 Non-member facilities ......................127-128 Child ...............................................40-42 Surgery
 Non-participating providers ........29, 127-128 Primary care provider (PCP) ......................34 Assistant surgeon ...........35, 42-43, 55-57
@@ -6009,7 +6009,7 @@ Specialty Drug Pharmacy Program ...84--
 Specialty drugs ............84-86, 88-89, 130
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 133 Index
 FEP® Blue Focus",6512,0,
-FEP_Blue_Focus_2026,136,"Summary of Benefits for the Blue Cross and Blue Shield Service Benefit Plan FEP
+FEHB-Blue-Focus,FEHB,Blue-Focus,136,"Summary of Benefits for the Blue Cross and Blue Shield Service Benefit Plan FEP
 Blue Focus – 2026
 Do not rely on this chart alone. This is a summary. All benefits are subject to the definitions, limitations, and exclusions in this
 brochure. Before making a final decision, please read this FEHB brochure.
@@ -6054,7 +6054,7 @@ Services provided by a hospital: Outpatient Preferred: 30%* of the Plan allowanc
 Non-preferred (Member/Non-member): You pay all charges
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 134 FEP Blue Focus Summary
 FEP® Blue Focus",2557,1,"['Benefits', 'You Pay', 'Page', 'Medical services provided by physicians,\nspecialists and other healthcare\nprofessionals: Preventive, adult', 'Preferred provider: Nothing\nNon-preferred (Participating/Non-participating): You pay all\ncharges', '38-40', 'Medical services provided by physicians,\nspecialists and other healthcare\nprofessionals: Preventive, child', 'Preferred provider: Nothing\nNon-preferred (Participating/Non-participating): You pay all\ncharges', '40-41', 'Medical services provided by physicians,\nspecialists and other healthcare\nprofessionals: Professional Visits', 'Preferred provider: $10 for the first 10 visits per calendar year\n(combined medical and mental health and substance use\ndisorder)\nAfter the 10th visit: 30%* of the Plan allowance (deductible\napplies)\nNon-preferred (Participating/Non-participating): You pay all\ncharges', '36', 'Medical services provided by physicians,\nspecialists and other healthcare\nprofessionals: Diagnostic and treatment services\nprovided in the office', 'Preferred provider: 30%* of the Plan allowance (deductible\napplies)\nNon-preferred (Participating/Non-participating): You pay all\ncharges', '37', 'Medical services provided by physicians,\nspecialists and other healthcare\nprofessionals: Telehealth services', 'Preferred Telehealth Provider: Nothing\nNon-preferred (Participating/Non-participating): You pay all\ncharges', '36, 81', 'Services provided by a hospital: Inpatient', 'Preferred: 30%* of the Plan allowance (deductible applies)\nNon-preferred (Member/Non-member): You pay all charges', '65-67', 'Services provided by a hospital: Outpatient', 'Preferred: 30%* of the Plan allowance (deductible applies)\nNon-preferred (Member/Non-member): You pay all charges', '68-71']"
-FEP_Blue_Focus_2026,137,"Benefits You Pay Page
+FEHB-Blue-Focus,FEHB,Blue-Focus,137,"Benefits You Pay Page
 Emergency benefits: Accidental injury Preferred: Nothing for outpatient hospital and physician 78
 services within 72 hours (regular benefits apply thereafter)
 Non-preferred:
@@ -6099,7 +6099,7 @@ Tier 2: 40% coinsurance of the Plan allowance (up to a $500
 maximum) for up to a 30-day supply
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 135 FEP Blue Focus Summary
 FEP® Blue Focus",2098,1,"['Benefits', 'You Pay', 'Page', 'Emergency benefits: Accidental injury', 'Preferred: Nothing for outpatient hospital and physician\nservices within 72 hours (regular benefits apply thereafter)\nNon-preferred:\n• Participating: Nothing for outpatient hospital and physician\nservices within 72 hours (regular benefits thereafter)\n• Non-participating: Any difference between the Plan\nallowance and billed amount for outpatient hospital and\nphysician services within 72 hours; regular benefits\nthereafter\nAmbulance transport services: Nothing', '78', 'Emergency benefits: Medical emergency', 'Professional, outpatient hospital:\nPreferred urgent care: $25 copayment; PPO and Non-PPO\nemergency room care: 30%* of our allowance (deductible\napplies); Regular benefits for physician and hospital care*\nprovided in other than the emergency room/PPO urgent care\ncenter\nMaternity:\nAmbulance transport services: 30%* of our allowance\n(deductible applies)\nNon-preferred (Participating/Non-participating) urgent care\ncenter: You pay all charges', '78', 'Mental health visits', 'Preferred provider: $10 for the first 10 visits per calendar year\n(combined medical and mental health and substance use\ndisorder)\nAfter the 10th visit: 30%* of the Plan allowance (deductible\napplies)\nNon-preferred (Participating/Non-participating): You pay all\ncharges', '81', 'Mental health and substance use disorder\ntreatment (inpatient and outpatient)', 'Preferred provider: 30%* of the Plan allowance (deductible\napplies)\nNon-preferred (Participating/Non-participating): You pay all\ncharges', '82', 'Prescription drugs: Retail Pharmacy Program', 'Preferred retail pharmacy Tier 1 (generic): $5 copayment up to\na 30-day supply\nPreferred retail pharmacy Tier 2 (brand name): 40%\ncoinsurance of the Plan allowance (up to a $500 maximum) for\nup to a 30-day supply\nNon-preferred pharmacy: You pay all charges', '88', 'Prescription drugs: Specialty Drug Pharmacy\nProgram', 'Preferred specialty pharmacy\nTier 2: 40% coinsurance of the Plan allowance (up to a $500\nmaximum) for up to a 30-day supply', '89']"
-FEP_Blue_Focus_2026,138,"Benefits You Pay Page
+FEHB-Blue-Focus,FEHB,Blue-Focus,138,"Benefits You Pay Page
 Dental care Treatment of an accidental dental injury within 72 hours 95
 (regular benefits apply thereafter)
 Preferred: Nothing
@@ -6129,16 +6129,16 @@ members will be required to meet the balance of the
 catastrophic protection out-of-pocket maximum.
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 136 FEP Blue Focus Summary
 FEP® Blue Focus",1395,1,"['Benefits', 'You Pay', 'Page', 'Dental care', 'Treatment of an accidental dental injury within 72 hours\n(regular benefits apply thereafter)\nPreferred: Nothing\nNon-Preferred:\n• Participating: Nothing (no deductible)\n• Non-participating: Any difference between our allowance\nand the billed amount (no deductible)', '95', 'Wellness and Other Special Features: Health\nTools; Blue Health Assessment; MyBlue®\nCustomer eService; National Doctor and Hospital\nFinder; Healthy Families; Travel Benefit/Services\nOverseas; Care Management Programs; and\nRoutine Annual Physical Incentive Program', 'See Section 5(h).', '97-100', 'Protection against catastrophic costs (your\ncatastrophic protection out-of-pocket maximum)', '• Self Only: Nothing after $10,000 per contract per year\n• Self Plus One: Nothing after $20,000 (PPO) per contract\nper year\n• Self and Family: Nothing after $20,000 per family per year\nNotes:\n• Some costs do not count toward this protection.\n• When one covered family member (Self Plus One and Self\nand Family contracts) reaches the Self Only maximum\nduring the calendar year, that member’s claims will no\nlonger be subject to associated member cost-share amounts\nfor the remainder of the year. All remaining family\nmembers will be required to meet the balance of the\ncatastrophic protection out-of-pocket maximum.', '30']"
-FEP_Blue_Focus_2026,139,"Notes
+FEHB-Blue-Focus,FEHB,Blue-Focus,139,"Notes
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 137 Notes
 FEP® Blue Focus",86,0,
-FEP_Blue_Focus_2026,140,"Notes
+FEHB-Blue-Focus,FEHB,Blue-Focus,140,"Notes
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 138 Notes
 FEP® Blue Focus",86,0,
-FEP_Blue_Focus_2026,141,"Notes
+FEHB-Blue-Focus,FEHB,Blue-Focus,141,"Notes
 2026 Blue Cross® and Blue Shield® Service Benefit Plan 139 Notes
 FEP® Blue Focus",86,0,
-FEP_Blue_Focus_2026,142,"2026 Rate Information for the Blue Cross and Blue Shield Service Benefit Plan
+FEHB-Blue-Focus,FEHB,Blue-Focus,142,"2026 Rate Information for the Blue Cross and Blue Shield Service Benefit Plan
 To compare your FEHB health plan options please go to www.opm.gov/fehbcompare.
 To review premium rates for all FEHB health plan options please go to www.opm.gov/FEHBpremiums or
 www.opm.gov/Tribalpremium.
